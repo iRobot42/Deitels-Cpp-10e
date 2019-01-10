@@ -1,0 +1,14 @@
+Enter laps completed (-1 to end): 10
+Enter sponsorship rate: 12.50
+Student contribution is: 125.00
+
+Enter laps completed (-1 to end): 40
+Enter sponsorship rate: 20.25
+Student contribution is: 810.00
+
+Enter laps completed (-1 to end): 42
+Enter sponsorship rate: 10.50
+Student contribution is: 451.50
+
+Enter laps completed (-1 to end): -1
+Total funds raised: 1386.50
