@@ -1,0 +1,10 @@
+Enter number of hours worked (-1 to end): 10.5
+Accrued leave: 3.05 hours
+
+Enter number of hours worked (-1 to end): 45
+Accrued leave: 6.50 hours
+
+Enter number of hours worked (-1 to end): 30
+Accrued leave: 5.00 hours
+
+Enter number of hours worked (-1 to end): -1
