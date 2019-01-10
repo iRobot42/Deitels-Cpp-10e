@@ -1,0 +1,4 @@
+Integer radius of a circle: 42
+Diameter is 84
+Circumference is 263.894
+Area is 5541.76
