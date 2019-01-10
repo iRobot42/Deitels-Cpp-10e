@@ -1,0 +1,12 @@
+Number 1: 10
+Number 2: 9
+Number 3: 11
+Number 4: 0
+Number 5: 30
+Number 6: 11
+Number 7: 42
+Number 8: 1
+Number 9: 39
+Number 10: 5
+
+Largest numbers are 39 and 42
