@@ -1,4 +1,3 @@
-
 // Exercise 3.9: Account.h
 
 #include <string>
