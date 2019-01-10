@@ -1,0 +1,3 @@
+Five integer numbers: 5 -172 0 69 420
+largest is 420
+Smallest is -172
