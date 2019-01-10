@@ -1,0 +1,10 @@
+Current date (dd mm yyyy): 19 10 2018
+
+Person's Name (First Last): Alexander Robot
+Date of birth (dd mm yyyy): 08 11 1994
+
+Name: Alexander Robot
+Birth date: 8.11.1994
+Age: 23 years
+Maximum heart rate: 197 bpm
+Target-heart-rate: 98.5 - 167.45 bpm
