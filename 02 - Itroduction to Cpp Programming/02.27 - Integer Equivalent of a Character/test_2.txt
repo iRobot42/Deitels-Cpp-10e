@@ -1,0 +1,2 @@
+Character: a
+Integer equivalent is 97

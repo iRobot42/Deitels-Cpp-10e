@@ -1,0 +1,2 @@
+Character: 0
+Integer equivalent is 48

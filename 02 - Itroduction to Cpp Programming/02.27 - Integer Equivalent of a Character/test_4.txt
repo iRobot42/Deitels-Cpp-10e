@@ -1,0 +1,2 @@
+Character: $
+Integer equivalent is 36
