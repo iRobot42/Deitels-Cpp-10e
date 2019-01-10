@@ -1,0 +1,9 @@
+Nonnegative integer: -1
+Nonnegative integer: 5
+Factorial is 120
+
+Accuracy: 8
+e is 2.71828
+
+x: 3
+e^x is 20.0092
