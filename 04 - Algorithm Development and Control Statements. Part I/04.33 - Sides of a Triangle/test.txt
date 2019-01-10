@@ -1,0 +1,2 @@
+Three nonzero values: 2 3.0 4.2
+Triangle!
