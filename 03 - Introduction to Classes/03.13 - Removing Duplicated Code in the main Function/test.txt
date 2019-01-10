@@ -1,0 +1,14 @@
+account 1: Jane Green balance is $50
+account 2: John Blue balance is $0
+
+Enter deposit amount for account1: 25
+adding 25 to account1 balance
+
+account 1: Jane Green balance is $75
+account 2: John Blue balance is $0
+
+Enter deposit amount for account2: 123
+adding 123 to account2 balance
+
+account 1: Jane Green balance is $75
+account 2: John Blue balance is $123
