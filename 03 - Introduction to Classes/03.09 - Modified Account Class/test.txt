@@ -1,0 +1,13 @@
+account1: Jane Green balance is $50
+account2: John Blue balance is $0
+
+Enter withdraw amount for account1: 42
+
+account1: Jane Green balance is $8
+account2: John Blue balance is $0
+
+Enter withdraw amount for account2: 1
+Withdrawal amount exceeded account balance.
+
+account1: Jane Green balance is $8
+account2: John Blue balance is $0
