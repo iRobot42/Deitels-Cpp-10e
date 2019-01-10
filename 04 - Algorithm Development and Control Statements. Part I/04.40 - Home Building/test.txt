@@ -1,0 +1,29 @@
+Height and width, m (-1 to quit): 1 1
+230x115 mm bricks: 107
+50-kg cement bags: 1
+
+Height and width, m (-1 to quit): 0 0
+230x115 mm bricks: 0
+50-kg cement bags: 0
+
+Height and width, m (-1 to quit): 0 1
+230x115 mm bricks: 0
+50-kg cement bags: 0
+
+Height and width, m (-1 to quit): 0.5 0.5
+230x115 mm bricks: 27
+50-kg cement bags: 1
+
+Height and width, m (-1 to quit): 2.8 6
+230x115 mm bricks: 1791
+50-kg cement bags: 5
+
+Height and width, m (-1 to quit): 10 10
+230x115 mm bricks: 10660
+50-kg cement bags: 26
+
+Height and width, m (-1 to quit): 10 10.1
+230x115 mm bricks: 10767
+50-kg cement bags: 27
+
+Height and width, m (-1 to quit): -1
