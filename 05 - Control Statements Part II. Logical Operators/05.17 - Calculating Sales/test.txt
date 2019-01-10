@@ -1,0 +1,24 @@
+Product number (1-5) [0 - exit]: -1
+Product number (1-5) [0 - exit]: 6
+Product number (1-5) [0 - exit]: 1
+Quantity sold: -10
+Quantity sold: 10
+
+Product number (1-5) [0 - exit]: 2
+Quantity sold: 7
+
+Product number (1-5) [0 - exit]: 3
+Quantity sold: 3
+
+Product number (1-5) [0 - exit]: 5
+Quantity sold: 10
+
+Product number (1-5) [0 - exit]: 4
+Quantity sold: 2
+
+Product number (1-5) [0 - exit]: 1
+Quantity sold: 1
+
+Product number (1-5) [0 - exit]: 0
+
+Total retail value of all products sold is $171.90
