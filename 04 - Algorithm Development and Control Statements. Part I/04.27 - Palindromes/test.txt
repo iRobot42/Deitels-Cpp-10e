@@ -1,0 +1,4 @@
+Five-digit number: 4444
+Five-digit number: 123456
+Five-digit number: 42024
+Palindrome!
