@@ -1,0 +1,2 @@
+Four-digit integer: 4315
+5  1  3  4
