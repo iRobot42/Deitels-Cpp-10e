@@ -1,0 +1,13 @@
+INITIAL CAR DETAILS
+Make:                Mercedes
+Fuel type:           Diesel
+Year of manufacture: 2010
+Color:
+Engine capacity:     -858993460
+
+MODIFIED CAR DETAILS
+Make:                Mercedes-Benz
+Fuel type:           Hybrid
+Year of manufacture: 2015
+Color:               Green
+Engine capacity:     1600
