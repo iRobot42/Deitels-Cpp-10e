@@ -1,0 +1,19 @@
+Enter account number (or -1 to quit): 100
+Enter beginning balance: 5394.78
+Enter total charges: 1000.00
+Enter total credits: 500.00
+Enter credit limit: 5500.00
+New balance is 5894.78
+Account:      100
+Credit limit: 5500.00
+Balance:      5894.78
+Credit Limit Exceeded.
+
+Enter Account Number (or -1 to quit): 200
+Enter beginning balance: 1000.00
+Enter total charges: 123.45
+Enter total credits: 321.00
+Enter credit limit: 1500.00
+New balance is 802.45
+
+Enter Account Number (or -1 to quit): -1
