@@ -1,0 +1,5 @@
+Number of values: 1
+
+Value: 42
+
+Smallest is 42

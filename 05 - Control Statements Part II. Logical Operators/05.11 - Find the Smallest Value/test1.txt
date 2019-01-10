@@ -1,0 +1,9 @@
+Number of values: 5
+
+Value: 37
+Value: -9
+Value: 0
+Value: 42
+Value: -1
+
+Smallest is -9
