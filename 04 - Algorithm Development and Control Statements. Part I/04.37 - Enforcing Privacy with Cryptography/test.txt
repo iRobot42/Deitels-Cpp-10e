@@ -1,0 +1,8 @@
+Four-digit integer: 999
+Four-digit integer: 10000
+Four-digit integer: 4321
+Encrypted: 9810
+
+Encrypted number: 10000
+Encrypted number: 42
+Decrypted: 7533
