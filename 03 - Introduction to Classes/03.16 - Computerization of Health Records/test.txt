@@ -1,0 +1,23 @@
+Current date (dd mm yyyy): 19 10 2018
+
+Person's Name (First Last): Alexander Robot
+Gender (Male/Female): Male
+Date of birth (dd mm yyyy): 08 11 1994
+Height, in inches: 70.1
+Weight, in pounds: 143.9
+
+Name: Alexander Robot
+Gender: Male
+Birth date: 8.11.1994
+Age: 23 years
+Height: 70.1 inches
+Weight: 143.9 pounds
+Maximum heart rate: 197 bpm
+Target-heart-rate: 98.5 - 167.45 bpm
+Body Mass Index: 20.5864
+
+BMI VALUES
+Underweight: less than 18.5
+Normal:      between 18.5 and 24.9
+Overweight:  between 25 and 29.9
+Obese:       30 or greater
