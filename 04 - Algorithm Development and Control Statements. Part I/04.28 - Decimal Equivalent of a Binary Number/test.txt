@@ -1,0 +1,2 @@
+Binary number: 101010
+Decimal equivalent is 42
