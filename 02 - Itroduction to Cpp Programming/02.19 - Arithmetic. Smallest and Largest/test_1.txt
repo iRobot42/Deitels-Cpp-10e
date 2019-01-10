@@ -1,0 +1,6 @@
+Input three different integers: 13 27 14
+Sum is 54
+Average is 18
+Product is 4914
+Smallest is 13
+Largest is 27
