@@ -1,0 +1,16 @@
+Enter result (1 = pass, 2 = fail): 1
+Enter result (1 = pass, 2 = fail): 2
+Enter result (1 = pass, 2 = fail): 3
+Invalid result!
+Enter result (1 = pass, 2 = fail): 1
+Enter result (1 = pass, 2 = fail): 2
+Enter result (1 = pass, 2 = fail): 1
+Enter result (1 = pass, 2 = fail): 2
+Enter result (1 = pass, 2 = fail): 2
+Enter result (1 = pass, 2 = fail): 0
+Invalid result!
+Enter result (1 = pass, 2 = fail): 1
+Enter result (1 = pass, 2 = fail): 1
+Enter result (1 = pass, 2 = fail): 1
+Passed: 6
+Failed: 4
