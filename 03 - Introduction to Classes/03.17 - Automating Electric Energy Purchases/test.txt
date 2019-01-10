@@ -1,0 +1,8 @@
+Amount (Tanzanian Shillings): 43210
+
+Amount paid:    43210 TZS
+Units provided: 97.301 kWh
+VAT (18%):      7777.8 TZS
+REA (3%):       1296.3 TZS
+EWURA (1%):     432.1 TZS
+Fixed charge:   5000 TZS
