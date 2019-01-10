@@ -1,0 +1,17 @@
+INITIAL INVOICE
+Part number:      A-1
+Part description: Description
+Quantity:         100
+Item price:       0
+VAT rate:         0.2
+Discount rate:    0
+Invoice amount:   0
+
+MODIFIED INVOICE
+Part number:      A-1m
+Part description: Modified description
+Quantity:         10
+Item price:       42
+VAT rate:         0.15
+Discount rate:    0.05
+Invoice amount:   336
