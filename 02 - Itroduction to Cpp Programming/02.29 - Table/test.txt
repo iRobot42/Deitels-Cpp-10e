@@ -1,0 +1,8 @@
+Face length     Surface area    Volume
+of cube (cm)    of cube (cm^2)  of cube (cm^3)
+
+0               0               0
+1               6               1
+2               24              8
+3               54              27
+4               96              64
