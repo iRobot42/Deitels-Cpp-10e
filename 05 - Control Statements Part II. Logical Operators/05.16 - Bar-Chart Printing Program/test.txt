@@ -1,0 +1,15 @@
+Five numbers between 1 and 9: 1 9 0 3 7
+
+1
+1
+
+999999999
+999999999
+
+Number 0 is out of range!
+
+333
+333
+
+7777777
+7777777
