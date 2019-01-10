@@ -1,0 +1,11 @@
+Enter kilometers driven (-1 to quit): 287
+Enter liters used: 30
+Kms per liter this trip: 9.566667
+Total kms per liter: 9.566667
+
+Enter kilometers driven (-1 to quit): 450
+Enter liters used: 60
+Kms per liter this trip: 7.500000
+Total kms per liter: 8.188889
+
+Enter kilometers driven (-1 to quit): -1
