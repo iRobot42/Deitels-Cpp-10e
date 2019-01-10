@@ -1,0 +1,6 @@
+Two numbers: 42 3
+
+Sum is 45
+Product is 126
+Difference is 39
+Quotient is 14

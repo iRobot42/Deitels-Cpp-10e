@@ -1,0 +1,5 @@
+Two numbers: 42 0
+
+Sum is 42
+Product is 0
+Difference is 42
