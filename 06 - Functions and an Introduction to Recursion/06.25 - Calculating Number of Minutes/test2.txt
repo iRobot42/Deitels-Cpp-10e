@@ -1,0 +1,4 @@
+Time (dd hh mm): 0 0 0
+Second time: 0 0 42
+
+Difference between two times is 42 minute(s).
