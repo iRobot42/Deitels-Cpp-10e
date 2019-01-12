@@ -1,0 +1,22 @@
+Two integer numbers (0 to end): 15 3
+3 is a factor of 15
+
+Two integer numbers (0 to end): 3 15
+15 is not a factor of 3
+
+Two integer numbers (0 to end): 15 4
+4 is not a factor of 15
+
+Two integer numbers (0 to end): 15 5
+5 is a factor of 15
+
+Two integer numbers (0 to end): 15 15
+15 is a factor of 15
+
+Two integer numbers (0 to end): 15 1
+1 is a factor of 15
+
+Two integer numbers (0 to end): 42 7
+7 is a factor of 42
+
+Two integer numbers (0 to end): 0
