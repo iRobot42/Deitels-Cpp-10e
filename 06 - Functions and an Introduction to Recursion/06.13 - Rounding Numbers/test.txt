@@ -1,0 +1,14 @@
+Number: 4.2
+Nearest integer for 4.2 is 4
+
+Number: 0.1
+Nearest integer for 0.1 is 0
+
+Number: 0.5
+Nearest integer for 0.5 is 1
+
+Number: 0.9
+Nearest integer for 0.9 is 1
+
+Number: 2
+Nearest integer for 2 is 2
