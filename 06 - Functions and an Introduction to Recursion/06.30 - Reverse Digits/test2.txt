@@ -1,0 +1,2 @@
+Number: 100042
+Reversed is 240001
