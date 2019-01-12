@@ -1,0 +1,5 @@
+Width and height: 6 2
+Fill character: %
+
+%%%%%%
+%%%%%%
