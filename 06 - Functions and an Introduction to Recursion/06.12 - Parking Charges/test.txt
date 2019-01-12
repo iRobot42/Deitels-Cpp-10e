@@ -1,0 +1,7 @@
+Parking hours (three cars): 1.5 4.0 24.0
+
+Car     Hours   Charge
+1         1.5    20.00
+2         4.0    25.00
+3        24.0    50.00
+TOTAL    29.5    95.00
