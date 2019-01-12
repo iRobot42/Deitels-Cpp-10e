@@ -1,0 +1,2 @@
+Two nonzero numbers: 8 -12
+GCD is 4

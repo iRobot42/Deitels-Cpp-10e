@@ -1,0 +1,4 @@
+Two nonzero numbers: 0 1
+Two nonzero numbers: 1 0
+Two nonzero numbers: 42 35
+GCD is 7
