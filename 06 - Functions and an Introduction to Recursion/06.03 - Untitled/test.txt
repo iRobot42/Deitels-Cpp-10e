@@ -1,0 +1,20 @@
+ceil( 9.2 ) is 10
+ceil( -9.8 ) is -9
+cos( 0.0 ) is 1
+exp( 1.0 ) is 2.71828
+exp( 2.0 ) is 7.38906
+fabs( 5.1 ) is 5.1
+fabs( 0.0 ) is 0
+fabs( -8.76 ) is 8.76
+floor( 9.2 ) is 9
+floor( -9.8 ) is -10
+fmod( 2.6, 1.2 ) is 0.2
+log( 2.718282 ) is 1
+log( 7.389056 ) is 2
+log10( 10.0 ) is 1
+log10( 100.0 ) is 2
+pow( 2, 7 ) is 128
+pow( 9, .5 ) is 3
+sin( 0.0 ) is 0
+sqrt( 9.0 ) is 3
+tan( 0.0 ) is 0
