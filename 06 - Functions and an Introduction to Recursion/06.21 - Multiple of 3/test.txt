@@ -1,0 +1,22 @@
+Integer number (0 to end): 1
+1 is not a multiple of 3
+
+Integer number (0 to end): 3
+3 is a multiple of 3
+
+Integer number (0 to end): 4
+4 is not a multiple of 3
+
+Integer number (0 to end): 5
+5 is not a multiple of 3
+
+Integer number (0 to end): 6
+6 is a multiple of 3
+
+Integer number (0 to end): 9
+9 is a multiple of 3
+
+Integer number (0 to end): 42
+42 is a multiple of 3
+
+Integer number (0 to end): 0
