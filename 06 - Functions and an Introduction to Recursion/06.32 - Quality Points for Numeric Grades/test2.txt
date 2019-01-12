@@ -1,0 +1,2 @@
+Student's average: 90
+Quality point is 4

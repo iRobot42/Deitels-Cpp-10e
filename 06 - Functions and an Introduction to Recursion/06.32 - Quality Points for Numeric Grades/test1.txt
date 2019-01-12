@@ -1,0 +1,4 @@
+Student's average: -1
+Student's average: 101
+Student's average: 97
+Quality point is 4
