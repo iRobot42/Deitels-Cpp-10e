@@ -1,0 +1,2 @@
+Three double numbers: 42.0 3333.333 123.4
+Smallest is 42

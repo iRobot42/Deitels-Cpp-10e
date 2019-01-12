@@ -1,0 +1,2 @@
+Three double numbers: 1.1 -4.2 0
+Smallest is -4.2
