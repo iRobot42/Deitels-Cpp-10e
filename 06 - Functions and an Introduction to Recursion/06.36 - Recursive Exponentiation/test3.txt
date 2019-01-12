@@ -1,0 +1,3 @@
+Base and exponent: 2 -3
+Base and exponent: -2 3
+Result is -8

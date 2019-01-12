@@ -1,0 +1,2 @@
+Base and exponent: 3 4
+Result is 81
