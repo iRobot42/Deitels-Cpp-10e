@@ -1,0 +1,2 @@
+Two numbers: 18 42
+GCD is 6

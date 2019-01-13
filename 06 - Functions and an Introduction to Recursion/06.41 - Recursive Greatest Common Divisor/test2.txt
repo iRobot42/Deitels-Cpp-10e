@@ -1,0 +1,2 @@
+Two numbers: 3 -3
+GCD is 3
