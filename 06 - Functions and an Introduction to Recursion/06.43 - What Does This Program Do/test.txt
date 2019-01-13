@@ -1,0 +1,2 @@
+Enter two integers: 6 7
+The result is 42
