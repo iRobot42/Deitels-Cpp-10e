@@ -1,0 +1,18 @@
+Current balance is $1000
+
+Your wager: 0
+Your wager: 1001
+Your wager: 1000
+Player rolled 2 + 2 = 4
+Point is 4
+Aw cmon, take a chance!
+Player rolled 3 + 4 = 7
+Player rolled 3 + 1 = 4
+Player rolled 4 + 3 = 7
+Player rolled 6 + 2 = 8
+Player rolled 5 + 6 = 11
+Player rolled 2 + 4 = 6
+Player rolled 4 + 2 = 6
+Player rolled 2 + 5 = 7
+Player loses
+Sorry. You busted!

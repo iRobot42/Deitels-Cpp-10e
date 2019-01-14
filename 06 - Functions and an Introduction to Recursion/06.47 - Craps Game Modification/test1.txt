@@ -1,0 +1,54 @@
+Current balance is $1000
+
+Your wager: 100
+Player rolled 1 + 6 = 7
+Player wins
+Balance is $1100
+Play again (y/n)? y
+
+Your wager: 200
+Player rolled 4 + 1 = 5
+Point is 5
+You're up big. Now's the time to cash in your chips!
+Player rolled 6 + 4 = 10
+Player rolled 5 + 2 = 7
+Player loses
+Balance is $900
+Play again (y/n)? y
+
+Your wager: 500
+Player rolled 3 + 1 = 4
+Point is 4
+You're up big. Now's the time to cash in your chips!
+Player rolled 4 + 2 = 6
+Player rolled 3 + 5 = 8
+Player rolled 1 + 2 = 3
+Player rolled 6 + 5 = 11
+Player rolled 2 + 5 = 7
+Player rolled 5 + 3 = 8
+Player rolled 5 + 6 = 11
+Player rolled 6 + 2 = 8
+Player rolled 3 + 6 = 9
+Player rolled 2 + 6 = 8
+Player rolled 5 + 5 = 10
+Player rolled 4 + 5 = 9
+Player rolled 6 + 4 = 10
+Player rolled 2 + 1 = 3
+Player rolled 2 + 5 = 7
+Player rolled 1 + 4 = 5
+Player rolled 2 + 1 = 3
+Player rolled 1 + 3 = 4
+Player rolled 5 + 4 = 9
+Player rolled 5 + 2 = 7
+Player loses
+Balance is $400
+Play again (y/n)? y
+
+Your wager: 400
+Player rolled 5 + 4 = 9
+Point is 9
+Oh, you're going for broke, huh?
+Player rolled 1 + 5 = 6
+Player rolled 1 + 6 = 7
+Player loses
+Sorry. You busted!
