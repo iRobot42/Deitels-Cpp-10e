@@ -1,0 +1,101 @@
+Difficulty (1-4): 0
+Difficulty (1-4): 5
+Difficulty (1-4): 1
+How much is 9 times 9? 81
+Keep up the good work!
+How much is 4 times 5? 20
+Excellent!
+How much is 2 times 9? 18
+Excellent!
+How much is 3 times 8? 24
+Keep up the good work!
+How much is 8 times 1? 8
+Nice work!
+How much is 0 times 7? 0
+Nice work!
+How much is 4 times 5? 20
+Keep up the good work!
+How much is 3 times 9? 27
+Nice work!
+How much is 0 times 8? 0
+Keep up the good work!
+How much is 5 times 2? 10
+Keep up the good work!
+
+Congratulations, you are ready to go to the next level!
+Continue (y/n)? y
+
+Difficulty (1-4): 3
+How much is 567 times 107? 60669
+Nice work!
+How much is 85 times 304? 25840
+Very good!
+How much is 523 times 233? 121859
+Very good!
+How much is 322 times 312? 100464
+Very good!
+How much is 367 times 261? 95787
+Very good!
+How much is 91 times 514? 0
+Wrong. Try once more.
+How much is 91 times 514? 46774
+Nice work!
+How much is 835 times 305? 254675
+Nice work!
+How much is 516 times 402? 207432
+Excellent!
+How much is 364 times 769? 279916
+Excellent!
+
+Congratulations, you are ready to go to the next level!
+Continue (y/n)? y
+
+Difficulty (1-4): 2
+How much is 66 times 99? 6534
+Very good!
+How much is 15 times 97? 1455
+Keep up the good work!
+How much is 34 times 6? 204
+Nice work!
+How much is 53 times 68? 3604
+Very good!
+How much is 6 times 20? 0
+Don't give up!
+How much is 6 times 20? 0
+Don't give up!
+How much is 6 times 20? 0
+No. Please try again.
+How much is 6 times 20? 120
+Very good!
+How much is 8 times 62? 496
+Nice work!
+How much is 62 times 6? 372
+Keep up the good work!
+
+Please ask your teacher for extra help.
+Continue (y/n)? y
+
+Difficulty (1-4): 4
+How much is 838 times 842? 705596
+Excellent!
+How much is 1192 times 5954? 7097168
+Very good!
+How much is 1207 times 4867? 5874469
+Very good!
+How much is 3937 times 3387? 13334619
+Nice work!
+How much is 93 times 3080? 0
+No. Please try again.
+How much is 93 times 3080? 0
+No. Keep trying.
+How much is 93 times 3080? 0
+Wrong. Try once more.
+How much is 93 times 3080? 0
+No. Keep trying.
+How much is 93 times 3080? 0
+Don't give up!
+How much is 93 times 3080? 0
+No. Please try again.
+
+Please ask your teacher for extra help.
+Continue (y/n)? n
