@@ -1,0 +1,10 @@
+Player rolled 3 + 6 = 9
+Point is 9
+Player rolled 5 + 1 = 6
+Player rolled 6 + 5 = 11
+Player rolled 6 + 5 = 11
+Player rolled 4 + 4 = 8
+Player rolled 6 + 6 = 12
+Player rolled 2 + 3 = 5
+Player rolled 6 + 3 = 9
+Player wins
