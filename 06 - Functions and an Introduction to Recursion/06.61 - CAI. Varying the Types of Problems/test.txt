@@ -1,0 +1,161 @@
+Difficulty (1-4): 1
+Types of arithmetic problem:
+1 - addition
+2 - subtraction
+3 - multiplication
+4 - division (integer)
+5 - random mixture
+Type: 0
+Type: 6
+Type: 4
+1 / 8 = 0
+Keep up the good work!
+7 / 2 = 3
+Keep up the good work!
+5 / 4 = 1
+Very good!
+9 / 1 = 9
+Nice work!
+4 / 4 = 1
+Nice work!
+3 / 7 = 0
+Excellent!
+0 / 4 = 0
+Very good!
+8 / 2 = 4
+Keep up the good work!
+6 / 1 = 0
+Wrong. Try once more.
+6 / 1 = 6
+Nice work!
+
+Congratulations, you are ready to go to the next level!
+Continue (y/n)? y
+
+Difficulty (1-4): 2
+Types of arithmetic problem:
+1 - addition
+2 - subtraction
+3 - multiplication
+4 - division (integer)
+5 - random mixture
+Type: 1
+24 + 74 = 98
+Keep up the good work!
+89 + 26 = 115
+Very good!
+19 + 92 = 111
+Very good!
+92 + 32 = 0
+Don't give up!
+92 + 32 = 124
+Excellent!
+66 + 92 = 158
+Keep up the good work!
+78 + 3 = 81
+Nice work!
+48 + 64 = 112
+Excellent!
+34 + 58 = 92
+Nice work!
+80 + 88 = 168
+Excellent!
+
+Congratulations, you are ready to go to the next level!
+Continue (y/n)? y
+
+Difficulty (1-4): 3
+Types of arithmetic problem:
+1 - addition
+2 - subtraction
+3 - multiplication
+4 - division (integer)
+5 - random mixture
+Type: 2
+775 - 774 = 1
+Very good!
+350 - 831 = -481
+Very good!
+109 - 621 = -512
+Keep up the good work!
+43 - 237 = 0
+Wrong. Try once more.
+43 - 237 = -194
+Keep up the good work!
+114 - 779 = -665
+Excellent!
+292 - 291 = 1
+Very good!
+997 - 872 = 125
+Excellent!
+661 - 309 = 352
+Keep up the good work!
+25 - 966 = -971
+No. Please try again.
+
+Congratulations, you are ready to go to the next level!
+Continue (y/n)? y
+
+Difficulty (1-4): 1
+Types of arithmetic problem:
+1 - addition
+2 - subtraction
+3 - multiplication
+4 - division (integer)
+5 - random mixture
+Type: 5
+4 + 8 = 12
+Keep up the good work!
+8 / 5 = 0
+No. Keep trying.
+8 / 5 = 0
+No. Keep trying.
+8 / 5 = 1
+Very good!
+7 - 9 = -2
+Excellent!
+3 + 1 = 4
+Nice work!
+8 + 5 = 13
+Very good!
+6 * 7 = 42
+Keep up the good work!
+2 - 0 = 2
+Keep up the good work!
+1 - 1 = 0
+Nice work!
+
+Congratulations, you are ready to go to the next level!
+Continue (y/n)? y
+
+Difficulty (1-4): 4
+Types of arithmetic problem:
+1 - addition
+2 - subtraction
+3 - multiplication
+4 - division (integer)
+5 - random mixture
+Type: 3
+4929 * 940 = 4633260
+Excellent!
+1520 * 7758 = 11792160
+Very good!
+8444 * 7477 = 63135788
+Excellent!
+9600 * 5141 = 49353600
+Excellent!
+2921 * 1330 = 0
+No. Please try again.
+2921 * 1330 = 0
+No. Please try again.
+2921 * 1330 = 0
+Wrong. Try once more.
+2921 * 1330 = 0
+No. Please try again.
+2921 * 1330 = 0
+Don't give up!
+2921 * 1330 = 0
+Wrong. Try once more.
+
+Please ask your teacher for extra help.
+Continue (y/n)? n
