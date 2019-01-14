@@ -1,0 +1,3 @@
+Number: 7
+Tripled by value: 21
+Tripled by reference: 21
