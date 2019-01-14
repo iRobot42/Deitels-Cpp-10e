@@ -1,0 +1,45 @@
+Enter -1 to end.
+
+How much is 2 times 2? 4
+Excellent!
+
+How much is 6 times 2? 12
+Nice work!
+
+How much is 8 times 1? 8
+Nice work!
+
+How much is 9 times 4? 36
+Keep up the good work!
+
+How much is 8 times 4? 32
+Keep up the good work!
+
+How much is 4 times 1? 4
+Very good!
+
+How much is 8 times 0? 1
+Wrong. Try once more.
+
+How much is 8 times 0? 1
+No. Keep trying.
+
+How much is 8 times 0? 1
+No. Please try again.
+
+How much is 8 times 0? 1
+No. Keep trying.
+
+How much is 8 times 0? 1
+No. Keep trying.
+
+How much is 8 times 0? 1
+Wrong. Try once more.
+
+How much is 8 times 0? 1
+Don't give up!
+
+How much is 8 times 0? 0
+Very good!
+
+How much is 0 times 4? -1
