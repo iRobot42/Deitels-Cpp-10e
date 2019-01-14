@@ -1,0 +1,47 @@
+How much is 7 times 4? 0
+No. Keep trying.
+How much is 7 times 4? 0
+Wrong. Try once more.
+How much is 7 times 4? 28
+Excellent!
+How much is 0 times 9? 0
+Keep up the good work!
+How much is 6 times 8? 48
+Nice work!
+How much is 0 times 9? 0
+Nice work!
+How much is 1 times 9? 9
+Excellent!
+How much is 9 times 6? 54
+Keep up the good work!
+How much is 9 times 9? 81
+Nice work!
+How much is 8 times 6? 48
+Very good!
+
+Congratulations, you are ready to go to the next level!
+Continue (y/n)? y
+
+How much is 4 times 3? 0
+No. Keep trying.
+How much is 4 times 3? 0
+Don't give up!
+How much is 4 times 3? 0
+No. Keep trying.
+How much is 4 times 3? 12
+Keep up the good work!
+How much is 2 times 0? 0
+Keep up the good work!
+How much is 8 times 0? 0
+Keep up the good work!
+How much is 4 times 8? 32
+Keep up the good work!
+How much is 5 times 4? 20
+Nice work!
+How much is 6 times 5? 30
+Keep up the good work!
+How much is 4 times 0? 0
+Nice work!
+
+Please ask your teacher for extra help.
+Continue (y/n)? n
