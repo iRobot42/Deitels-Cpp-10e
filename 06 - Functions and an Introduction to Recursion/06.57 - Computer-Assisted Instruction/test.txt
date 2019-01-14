@@ -1,0 +1,33 @@
+Enter -1 to end.
+
+How much is 7 times 2? 14
+Very good!
+
+How much is 3 times 1? 3
+Very good!
+
+How much is 2 times 9? 18
+Very good!
+
+How much is 2 times 7? 14
+Very good!
+
+How much is 8 times 7? 56
+Very good!
+
+How much is 4 times 4? 16
+Very good!
+
+How much is 1 times 8? 8
+Very good!
+
+How much is 3 times 0? 0
+Very good!
+
+How much is 9 times 7? 63
+Very good!
+
+How much is 4 times 2? 1
+No. Please try again.
+
+How much is 4 times 2? -1
