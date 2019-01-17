@@ -1,0 +1,23 @@
+Size of array integers1 is 7
+array after initialization: 0 0 0 0 0 0 0
+
+Size of array integers2 is 10
+array after initialization: 0 0 0 0 0 0 0 0 0 0
+
+Enter 17 integers:
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+
+After input, the arrays contain:
+integers1: 1 2 3 4 5 6 7
+integers2: 8 9 10 11 12 13 14 15 16 17
+
+Size of array integers3 is 7
+array after initialization: 1 2 3 4 5 6 7
+
+integers1[ 5 ] is 6
+
+Assigning 1000 to integers1[ 5 ]
+integers1: 1 2 3 4 5 1000 7
+
+Attempt to display integers1.at( 15 )
+An exception occured: invalid array<T, N> subscript
