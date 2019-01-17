@@ -1,0 +1,27 @@
+Enter 20 numbers [10-100]...
+
+Number 1: 9
+Number 1: 101
+Number 1: 10
+Number 2: 100
+Number 3: 11
+Number 4: 11
+Number 5: 11
+Number 6: 42
+Number 7: 11
+Number 8: 11
+Number 9: 11
+Number 10: 42
+Number 11: 11
+Number 12: 11
+Number 13: 11
+Number 14: 11
+Number 15: 11
+Number 16: 11
+Number 17: 11
+Number 18: 11
+Number 19: 11
+Number 20: 11
+
+Unique values:
+10 100 11 42
