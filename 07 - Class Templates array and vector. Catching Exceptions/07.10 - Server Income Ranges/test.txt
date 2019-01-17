@@ -1,0 +1,26 @@
+Currency and basic rate: EUR 10
+Hours worked and tips received (0 to end):
+> 1 0
+> 5 0
+> 1 42
+> 5 9
+> 2 9
+> 4 2
+> 3 14
+> 8 19
+> 8 20
+> 10 1
+> 8 1000
+> 0
+
+Income, EUR     Servers
+-----------------------
+20-29           1
+30-39           0
+40-49           2
+50-59           3
+60-69           0
+70-79           0
+80-89           0
+90-99           1
+100 and over:   3
