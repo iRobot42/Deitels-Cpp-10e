@@ -33,7 +33,7 @@ int main() {
          a[ i ] = number;
    }
 
-   cout << "\nUnique values: " << endl;
+   cout << "\nUnique values:" << endl;
 
    for ( const int& element : a )
       if ( element )
