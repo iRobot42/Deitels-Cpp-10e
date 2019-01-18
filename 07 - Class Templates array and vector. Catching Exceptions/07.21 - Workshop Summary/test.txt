@@ -1,0 +1,34 @@
+Enter slip's data (Person Product Items) [0 to end].
+
+> -1 1 1
+Incorrect data. Try again.
+> 1 0 1
+Incorrect data. Try again.
+> 1 1 -1
+Incorrect data. Try again.
+> 1 1 1
+> 1 2 19
+> 1 3 16
+> 1 4 10
+> 1 5 2
+Incorrect data. Try again.
+> 2 1 5
+> 2 2 4
+> 2 3 12
+> 2 4 0
+> 3 1 1
+> 3 2 10
+> 3 3 100
+> 3 4 1000
+> 4 1 1
+Incorrect data. Try again.
+> 1 1 41
+> 0
+
+Product:        1       2       3       4       TOTAL
+-----------------------------------------------------
+Person 1        42      19      16      10      87
+Person 2        5       4       12      0       21
+Person 3        1       10      100     1000    1111
+
+TOTAL:          48      33      128     1010    1219
