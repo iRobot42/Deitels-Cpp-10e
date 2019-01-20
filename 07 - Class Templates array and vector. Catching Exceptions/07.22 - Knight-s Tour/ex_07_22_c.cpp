@@ -8,7 +8,10 @@ using namespace std;
 
 int main() {
 
-   const size_t SIZE{ 8 };
+   const size_t SIZE{ 8 };   
+   
+   const array< int, SIZE > horizontal{ 2, 1, -1, -2, -2, -1, 1, 2 };
+   const array< int, SIZE > vertical{ -1, -2, -2, -1, 1, 2, 2, 1 };
 
    array< array< int, SIZE >, SIZE > board{};
    array< array< int, SIZE >, SIZE > accessibility{
@@ -20,9 +23,6 @@ int main() {
       4, 6, 8, 8, 8, 8, 6, 4,
       3, 4, 6, 6, 6, 6, 4, 3,
       2, 3, 4, 4, 4, 4, 3, 2 };
-
-   array< int, SIZE > horizontal{ 2, 1, -1, -2, -2, -1, 1, 2 };
-   array< int, SIZE > vertical{ -1, -2, -2, -1, 1, 2, 2, 1 };
 
    size_t currentRow{ 0 };
    size_t currentColumn{ 0 };
