@@ -78,3 +78,6 @@ int main() {
    cout << endl;
    return 0;
 }
+
+// After 64 tours, one starting from each square of the chessboard,
+// I get 63 full tours. Unsuccessful one is @ board[3][2] (60 squares).
