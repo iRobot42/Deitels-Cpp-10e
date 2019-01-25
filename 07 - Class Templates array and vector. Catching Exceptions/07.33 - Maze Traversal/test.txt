@@ -1,0 +1,14 @@
+Maze solution:
+
+# # # # # # # # # # # #
+# X X X # X X X X X X #
+X X # X # X # # # # X #
+# # # X # X X X X # X #
+# x x X X # # # X # X X
+# # # # X # . # X # x #
+# x x # X # . # X # x #
+# # x # X # . # X # x #
+# x x x X X X X X # x #
+# # # # # # x # # # x #
+# x x x x x x # x x x #
+# # # # # # # # # # # #
