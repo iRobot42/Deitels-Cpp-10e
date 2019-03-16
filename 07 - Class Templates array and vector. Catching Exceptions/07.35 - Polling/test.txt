@@ -1,0 +1,68 @@
+Please rate each of these global environmental issues (1-10):
+
+Public Health: 5
+Waste Disposal: 2
+Climate Change: 10
+Overpopulation: 1
+Pollution: 3
+
+Next respondent? (y/n): y
+
+Public Health: 1
+Waste Disposal: 3
+Climate Change: 9
+Overpopulation: 7
+Pollution: 7
+
+Next respondent? (y/n): y
+
+Public Health: 5
+Waste Disposal: 3
+Climate Change: 8
+Overpopulation: 9
+Pollution: 2
+
+Next respondent? (y/n): y
+
+Public Health: 1
+Waste Disposal: 2
+Climate Change: 3
+Overpopulation: 4
+Pollution: 5
+
+Next respondent? (y/n): y
+
+Public Health: 7
+Waste Disposal: 10
+Climate Change: 10
+Overpopulation: 9
+Pollution: 8
+
+Next respondent? (y/n): y
+
+Public Health: 5
+Waste Disposal: 2
+Climate Change: 8
+Overpopulation: 5
+Pollution: 1
+
+Next respondent? (y/n): y
+
+Public Health: 2
+Waste Disposal: 3
+Climate Change: 9
+Overpopulation: 1
+Pollution: 4
+
+Next respondent? (y/n): n
+
+Rating:           1   2   3   4   5   6   7   8   9  10  Average
+----------------------------------------------------------------
+Public Health     2   1   0   0   3   0   1   0   0   0      3.7
+Waste Disposal    0   3   3   0   0   0   0   0   0   1      3.6
+Climate Change    0   0   1   0   0   0   0   2   2   2      8.1
+Overpopulation    2   0   0   1   1   0   1   0   2   0      5.1
+Pollution         1   1   1   1   1   0   1   1   0   0      4.3
+
+Highest point total: Climate Change (57)
+Lowest point total: Waste Disposal (25)
