@@ -1,0 +1,20 @@
+Write your SML program. 11111 to end.
+
+> 1009
+> 2009
+> 4106
+> 3008
+> 2108
+> 4000
+> 1108
+> 4300
+> 0
+> 0
+> 11111
+
+Number: 42
+Number: 69
+Number: 1
+Number: -1
+
+112
