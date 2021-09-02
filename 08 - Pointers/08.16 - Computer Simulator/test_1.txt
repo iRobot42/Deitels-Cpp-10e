@@ -1,0 +1,61 @@
+*** Welcome to Simpletron! ***
+
+*** Please enter your program one instruction ***
+*** (or data word) at a time. I will type the ***
+*** location number and a question mark (?).  ***
+*** You then type the word for that location. ***
+*** Type the sentinel -99999 to stop entering ***
+*** your program. ***
+
+00 ? +1015
+01 ? +1018
+02 ? +2015
+03 ? +3116
+04 ? +2115
+05 ? +4213
+06 ? +1017
+07 ? +2017
+08 ? +3118
+09 ? +4102
+10 ? +2017
+11 ? +2118
+12 ? +4002
+13 ? +1118
+14 ? +4300
+15 ? +0001
+16 ? +0001
+17 ? +0000
+18 ? +0000
+19 ? -99999
+
+*** Program loading completed ***
+*** Program execution begins ***
+Number: 5
+Number: -17
+Number: 0
+Number: 42
+Number: -1
+Number: 33
+Content is 42
+*** Simpletron has completed its task ***
+*** Program execution completed ***
+
+REGISTERS:
+accumulator          +0000
+instructionCounter      14
+instructionRegister  +4300
+operationCode           43
+operand                 00
+
+MEMORY:
+        0     1     2     3     4     5     6     7     8     9
+  0 +1015 +1018 +2015 +3116 +2115 +4213 +1017 +2017 +3118 +4102
++10 +2017 +2118 +4002 +1118 +4300 +0000 +0001 +0033 +0042 +0000
++20 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000
++30 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000
++40 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000
++50 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000
++60 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000
++70 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000
++80 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000
++90 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000

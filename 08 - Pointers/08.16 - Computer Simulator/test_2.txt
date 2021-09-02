@@ -1,0 +1,39 @@
+*** Welcome to Simpletron! ***
+
+*** Please enter your program one instruction ***
+*** (or data word) at a time. I will type the ***
+*** location number and a question mark (?).  ***
+*** You then type the word for that location. ***
+*** Type the sentinel -99999 to stop entering ***
+*** your program. ***
+
+00 ? +3201
+01 ? +0000
+02 ? +4300
+03 ? -99999
+
+*** Program loading completed ***
+*** Program execution begins ***
+*** Attempt to divide by zero ***
+*** Simpletron execution abnormally terminated ***
+*** Program execution completed ***
+
+REGISTERS:
+accumulator          +0000
+instructionCounter      00
+instructionRegister  +3201
+operationCode           32
+operand                 01
+
+MEMORY:
+        0     1     2     3     4     5     6     7     8     9
+  0 +3201 +0000 +4300 +0000 +0000 +0000 +0000 +0000 +0000 +0000
++10 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000
++20 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000
++30 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000
++40 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000
++50 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000
++60 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000
++70 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000
++80 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000
++90 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000
