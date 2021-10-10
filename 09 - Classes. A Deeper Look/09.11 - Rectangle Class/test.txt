@@ -1,0 +1,2 @@
+Perimeter is 28.4
+Area is 42
