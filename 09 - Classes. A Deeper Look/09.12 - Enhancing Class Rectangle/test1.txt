@@ -1,0 +1,2 @@
+Points: A(0;0), B(20;0), C(0;20), D(20;20).
+They form a square 20 by 20 rectangle with perimeter 80 and area 400
