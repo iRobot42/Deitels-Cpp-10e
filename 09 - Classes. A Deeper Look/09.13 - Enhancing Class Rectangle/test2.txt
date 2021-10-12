@@ -1,0 +1,28 @@
+Points: A(2.2;9), B(17.4;9), C(2.2;18.9), D(17.4;18.9).
+They form a 15.2 by 9.9 rectangle with perimeter 50.2 and area 150.48.
+Visual representation inside a 25-by-25 box with offset (0;0):
+|
+|
+|
+|
+|
+|
+|   x x x x x x x x x x x x x x x x
+|   x - - - - - - - - - - - - - - x
+|   x - - - - - - - - - - - - - - x
+|   x - - - - - - - - - - - - - - x
+|   x - - - - - - - - - - - - - - x
+|   x - - - - - - - - - - - - - - x
+|   x - - - - - - - - - - - - - - x
+|   x - - - - - - - - - - - - - - x
+|   x - - - - - - - - - - - - - - x
+|   x x x x x x x x x x x x x x x x
+|
+|
+|
+|
+|
+|
+|
+|
+0-------------------------------------------------

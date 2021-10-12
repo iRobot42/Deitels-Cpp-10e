@@ -1,0 +1,28 @@
+Points: A(1;1), B(16;1), C(1;16), D(16;16).
+They form a square 15 by 15 rectangle with perimeter 60 and area 225.
+Visual representation inside a 25-by-25 box with offset (1;7):
+|
+|   o o o o o o o o o o o o o o o o
+|   o ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ o
+|   o ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ o
+|   o ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ o
+|   o ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ o
+|   o ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ o
+|   o ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ o
+|   o ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ o
+|   o ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ o
+|   o ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ o
+|   o ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ o
+|   o ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ o
+|   o ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ o
+|   o ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ o
+|   o ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ o
+|   o o o o o o o o o o o o o o o o
+|
+|
+|
+|
+|
+|
+|
+0-------------------------------------------------

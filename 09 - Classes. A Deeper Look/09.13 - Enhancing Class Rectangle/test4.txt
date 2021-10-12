@@ -1,0 +1,28 @@
+Points: A(0;0), B(2;0), C(0;20), D(2;20).
+They form a 20 by 2 rectangle with perimeter 44 and area 40.
+Visual representation inside a 25-by-25 box with offset (0;0):
+|
+|
+|
+|
+x x x
+x - x
+x - x
+x - x
+x - x
+x - x
+x - x
+x - x
+x - x
+x - x
+x - x
+x - x
+x - x
+x - x
+x - x
+x - x
+x - x
+x - x
+x - x
+x - x
+x x x --------------------------------------------
