@@ -1,0 +1,72 @@
+Welcome to tic-tac-toe game!
+
+The player who succeeds in placing three of their marks
+in a horizontal, vertical, or diagonal row is the winner.
+
+Enter two numbers in format ROW COLUMN (starting index is 0),
+or negative number to terminate the game.
+
+Player 1 ([h]uman or [c]omputer): h
+Player 2 ([h]uman or [c]omputer): h
+
+Good luck!
+
+ . . .
+ . . .
+ . . .
+
+Player 1: 0 0
+
+ 1 . .
+ . . .
+ . . .
+
+Player 2: 1 1
+
+ 1 . .
+ . 2 .
+ . . .
+
+Player 1: 2 0
+
+ 1 . .
+ . 2 .
+ 1 . .
+
+Player 2: 1 0
+
+ 1 . .
+ 2 2 .
+ 1 . .
+
+Player 1: 1 2
+
+ 1 . .
+ 2 2 1
+ 1 . .
+
+Player 2: 0 1
+
+ 1 2 .
+ 2 2 1
+ 1 . .
+
+Player 1: 2 1
+
+ 1 2 .
+ 2 2 1
+ 1 1 .
+
+Player 2: 2 2
+
+ 1 2 .
+ 2 2 1
+ 1 1 2
+
+Player 1: 0 2
+
+ 1 2 1
+ 2 2 1
+ 1 1 2
+
+Game over. Draw.
