@@ -40,11 +40,10 @@ void TicTacToe::play() {
 
    char player[ 2 ];
 
-   for ( int i{}; i < 2; ++i )
-      do {
-         cout << "Player " << i + 1 << " ([h]uman or [c]omputer): ";
-         cin >> player[ i ];
-      } while ( player[ i ] != 'h' && player[ i ] != 'c' );
+   for ( int i{}; i < 2; ++i ) do {
+      cout << "Player " << i + 1 << " ([h]uman or [c]omputer): ";
+      cin >> player[ i ];
+   } while ( player[ i ] != 'h' && player[ i ] != 'c' );
 
    cout << "\nGood luck!" << endl;
 
@@ -63,10 +62,10 @@ void TicTacToe::play() {
    else cout << "Player " << ( current ? '1' : '2' ) << " wins!" << endl;
 }
 
-const State TicTacToe::turn( const bool CUR, const char WHO ) {
+const State TicTacToe::turn( const bool& CUR, const char& WHO ) {
 
    int r, c;
-   uniform_int_distribution< int > uid{ 0, 2 };
+   uniform_int_distribution< int > uid{ 0, SIZE - 1 };
 
    if ( WHO == 'h' )
       do {
@@ -75,38 +74,48 @@ const State TicTacToe::turn( const bool CUR, const char WHO ) {
          cin >> c;
       } while ( r < 0 || r >= SIZE || c < 0 || c >= SIZE || board[ r ][ c ] );
    else {
-      do { // no strategy, just randomizer. TODO: improve AI logic
+      do { // no strategy, just random. TODO: improve AI logic
          r = uid( generator );
          c = uid( generator );
-      } while ( board[ r ][ c ] );
+      } while ( board[ r ][ c ] ); // lmao
       cout << "Player " << ( CUR ? '1' : '2' ) << ": " << r << ' ' << c << endl;
    }
 
    board[ r ][ c ] = ( CUR ? 1 : 2 );
 
-   for ( int i{}; i < SIZE - 1; ++i ) {
-      if ( !board[ r ][ i ] || board[ r ][ i ] != board[ r ][ i + 1 ] ) break;
-      if ( i == SIZE - 2 ) return State::WIN;
+   return check( r, c ) ? State::WIN
+             : ( full() ? State::DRAW
+                        : State::CONTINUE );
+}
+
+const bool TicTacToe::check( const int& R, const int& C ) const {
+
+   for ( int c{}; c < SIZE - 1; ++c ) {
+      if ( !board[ R ][ c ] || board[ R ][ c ] != board[ R ][ c + 1 ] ) break;
+      if ( c == SIZE - 2 ) return true;
    }
 
-   for ( int i{}; i < SIZE - 1; ++i ) {
-      if ( !board[ i ][ c ] || board[ i ][ c ] != board[ i + 1 ][ c ] ) break;
-      if ( i == SIZE - 2 ) return State::WIN;
+   for ( int r{}; r < SIZE - 1; ++r ) {
+      if ( !board[ r ][ C ] || board[ r ][ C ] != board[ r + 1 ][ C ] ) break;
+      if ( r == SIZE - 2 ) return true;
    }
 
-   if ( r == c ) for ( int i{}; i < SIZE - 1; ++i ) {
+   if ( R == C ) for ( int i{}; i < SIZE - 1; ++i ) {
       if ( !board[ i ][ i ] || board[ i ][ i ] != board[ i + 1 ][ i + 1 ] ) break;
-      if ( i == SIZE - 2 ) return State::WIN;
+      if ( i == SIZE - 2 ) return true;
    }
 
-   if ( r + c == SIZE - 1 ) for ( int i{}, j{ SIZE - 1 }; j >= 0; ++i, --j ) {
-      if ( !board[ i ][ j ] || board[ i ][ j ] != board[ i + 1 ][ j - 1 ] ) break;
-      if ( i == SIZE - 2 ) return State::WIN;
+   if ( R + C == SIZE - 1 ) for ( int r{}, c{ SIZE - 1 }; c >= 0; ++r, --c ) {
+      if ( !board[ r ][ c ] || board[ r ][ c ] != board[ r + 1 ][ c - 1 ] ) break;
+      if ( r == SIZE - 2 ) return true;
    }
 
+   return false;
+}
+
+const bool TicTacToe::full() const {
    for ( int row{}; row < SIZE; ++row )
       for ( int col{}; col < SIZE; ++col )
-         if ( !board[ row ][ col ] ) return State::CONTINUE;
-
-   return State::DRAW;
+         if ( !board[ row ][ col ] ) return false;
+   return true;
 }
