@@ -20,7 +20,9 @@ private:
 
    int board[ SIZE ][ SIZE ]; // TODO: 3D
 
-   const State turn( const bool, char );
+   const State turn( const bool&, const char& );
+   const bool check( const int&, const int& ) const;
+   const bool full() const;
 };
 
 #endif
