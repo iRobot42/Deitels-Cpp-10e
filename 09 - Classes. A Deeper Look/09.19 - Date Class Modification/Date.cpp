@@ -75,7 +75,7 @@ string Date::outputMDY() const {
 
    ostringstream output;
 
-   output << setfill('0')
+   output << setfill( '0' )
       << setw( 2 ) << month << '/'
       << setw( 2 ) << day << '/'
       << setw( 2 ) << year % 100;
@@ -92,7 +92,9 @@ string Date::outputMon() const {
 
 void Date::setDate( const int& M, const int& D, const int& Y ) {
 
-   year = Y;
+   if ( Y < 0 ) throw( "year cannot be negative" );
+   else year = Y;
+
    daysPerMonth[ 2 ] = ( leapYear( Y ) ? 29 : 28 );
 
    if ( M < 1 || M > MONTHS ) throw( "month must be 1-12" );
