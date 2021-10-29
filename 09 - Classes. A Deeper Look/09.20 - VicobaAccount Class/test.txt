@@ -1,0 +1,4 @@
+Annual interest rate is 2%
+Borrowed amount is 10000.00 TZS
+Loan duration is 3 years
+Total interest is 600.00 TZS
