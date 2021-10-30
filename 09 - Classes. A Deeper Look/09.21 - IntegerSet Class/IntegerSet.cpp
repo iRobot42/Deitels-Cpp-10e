@@ -7,10 +7,10 @@
 
 using namespace std;
 
-IntegerSet::IntegerSet() { init0(); }
+IntegerSet::IntegerSet() : a( vector< bool >( SIZE, false ) ) {}
 
 IntegerSet::IntegerSet( const array< int, SIZE > A ) {
-   init0();
+   a = vector< bool >( SIZE, false );
    for ( size_t i{}; i < SIZE; ++i )
       insertElement( A[ i ] );
 }
@@ -62,13 +62,6 @@ IntegerSet IntegerSet::intersectionOfSets( const IntegerSet& IS ) const {
 
 bool IntegerSet::isEqualTo( const IntegerSet& IS ) const {
    return a == IS.a;
-}
-
-void IntegerSet::init0() {
-   if ( !a.size() ) // not yet initialized
-      for ( size_t i{}; i < SIZE; ++i )
-         a.push_back( false );
-   else throw ( "initialization error" );
 }
 
 bool IntegerSet::isEmpty() const {
