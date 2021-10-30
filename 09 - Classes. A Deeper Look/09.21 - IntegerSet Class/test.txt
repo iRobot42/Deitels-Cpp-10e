@@ -1,0 +1,15 @@
+Initial sets:
+---
+0 1 42 77 100
+
+Modified sets:
+0 42 99 100
+1 42 77 100
+
+First set is not equal to second
+
+Union of two sets:
+0 1 42 77 99 100
+
+Intersection of two sets:
+42 100
