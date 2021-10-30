@@ -30,8 +30,6 @@ private:
 
    std::vector< bool > a; // set
 
-   // utility
-   void init0();
    bool isEmpty() const;
    bool isValidNumber( const int& ) const;
 };
