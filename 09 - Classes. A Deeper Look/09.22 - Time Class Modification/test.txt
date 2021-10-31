@@ -1,0 +1,19 @@
+Constructed with:
+
+t1: all arguments defaulted
+Universal time: 00:00:00
+Standard time: 12:00:00 AM
+
+t2: hour specified; minute and second defaulted
+Universal time: 02:00:00
+Standard time: 2:00:00 AM
+
+t3: hour and minute specified; second defaulted
+Universal time: 21:34:00
+Standard time: 9:34:00 PM
+
+t4: hour, minute and second specified
+Universal time: 12:25:42
+Standard time: 12:25:42 PM
+
+Exception while initializing t5: hour must be 0-23
