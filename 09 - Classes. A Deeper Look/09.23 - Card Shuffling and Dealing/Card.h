@@ -10,9 +10,9 @@
 static const size_t FSIZE{ 13 };
 static const size_t SSIZE{ 4 };
 
-const enum class FACE{ Deuce, Three, Four, Five, Six, Seven, Eight, Nine, Ten,
+enum class Face{ Deuce, Three, Four, Five, Six, Seven, Eight, Nine, Ten,
    Jack, Queen, King, Ace };
-const enum class SUIT{ Clubs, Diamonds, Hearts, Spades };
+enum class Suit{ Clubs, Diamonds, Hearts, Spades };
 
 static const std::array< std::string, FSIZE > FACES{
    "Deuce", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine", "Ten",
@@ -24,7 +24,7 @@ class Card {
 
 public:
 
-   explicit Card( const FACE& = FACE( 0 ), const SUIT& = SUIT( 0 ) );
+   explicit Card( const Face = Face( 0 ), const Suit = Suit( 0 ) );
 
    std::string toString() const;
 
