@@ -5,7 +5,7 @@
 
 using namespace std;
 
-Card::Card( const FACE& F, const SUIT& S ) {
+Card::Card( const Face F, const Suit S ) {
    face = size_t( F );
    suit = size_t( S );
 }
