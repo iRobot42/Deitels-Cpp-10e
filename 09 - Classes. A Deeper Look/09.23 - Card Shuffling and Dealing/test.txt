@@ -1,0 +1,15 @@
+Jack of Clubs       Seven of Hearts     Four of Clubs       Four of Hearts
+Queen of Spades     Five of Spades      Jack of Diamonds    Five of Diamonds
+Five of Hearts      Nine of Clubs       Deuce of Hearts     Seven of Diamonds
+Six of Diamonds     Nine of Spades      Six of Hearts       King of Diamonds
+Ten of Clubs        Queen of Diamonds   King of Hearts      Deuce of Diamonds
+Ace of Spades       Jack of Spades      Queen of Clubs      Ace of Hearts
+Nine of Diamonds    Jack of Hearts      Seven of Clubs      Three of Hearts
+Five of Clubs       Ten of Spades       King of Spades      Eight of Spades
+Three of Spades     Queen of Hearts     Deuce of Clubs      Ace of Clubs
+Ace of Diamonds     Ten of Diamonds     Nine of Hearts      Four of Diamonds
+Six of Clubs        Six of Spades       Eight of Hearts     Deuce of Spades
+Seven of Spades     King of Clubs       Ten of Hearts       Three of Diamonds
+Four of Spades      Three of Clubs      Eight of Clubs      Eight of Diamonds
+
+Exception: invalid card
