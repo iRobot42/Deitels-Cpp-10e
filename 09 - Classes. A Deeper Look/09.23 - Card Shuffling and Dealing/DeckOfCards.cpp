@@ -13,7 +13,7 @@ default_random_engine generator{ static_cast< unsigned >( time( 0 ) ) };
 DeckOfCards::DeckOfCards() : currentCard( 0 ) {
    for ( size_t f{}; f < FSIZE; ++f )
       for ( size_t s{}; s < SSIZE; ++s )
-         deck[ currentCard++ ] = Card{ FACE( f ), SUIT( s ) };
+         deck[ currentCard++ ] = Card{ Face( f ), Suit( s ) };
    currentCard = 0;
 }
 
