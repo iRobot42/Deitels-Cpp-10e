@@ -19,11 +19,11 @@ DeckOfCards::DeckOfCards() : currentCard( 0 ) {
 
 void DeckOfCards::shuffle() {
 
-   uniform_int_distribution< size_t > uid{ 0, DSIZE - 1 };
+   uniform_int_distribution< int > uid{ currentCard, DSIZE - 1 };
 
-   for ( size_t card{}; card < DSIZE; ++card ) {
+   for ( int card{ currentCard }; card < DSIZE; ++card ) {
       
-      const size_t RAND{ uid( generator ) };
+      const int RAND{ uid( generator ) };
       const Card TEMP{ deck[ card ] };
       
       deck[ card ] = deck[ RAND ];
