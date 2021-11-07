@@ -23,7 +23,7 @@ void DeckOfCards::shuffle() {
    uniform_int_distribution< int > uid{ currentCard, DSIZE - 1 };
 
    for ( int card{ currentCard }; card < DSIZE; ++card ) {
-      
+
       const int RAND{ uid( generator ) };
       const Card TEMP{ deck[ card ] };
       
@@ -70,46 +70,28 @@ bool DeckOfCards::pair() const {
 }
 
 bool DeckOfCards::pairs() const {
-
    array< short, FSIZE > counter{};
    bool found{};
-
    for ( size_t card{}; card < HSIZE; ++card )
-      counter[ hand[ card ].getFace() ]++;
-
-   for ( const auto& number : counter ) {
-      if ( number >= 2 )
+      if ( ++counter[ hand[ card ].getFace() ] == 2 )
          if ( found ) return true;
          else found = true;
-      if ( number == SSIZE ) return true;
-   }
-
    return false;
 }
 
 bool DeckOfCards::three() const {
-
    array< short, FSIZE > counter{};
-
    for ( size_t card{}; card < HSIZE; ++card )
-      counter[ hand[ card ].getFace() ]++;
-
-   for ( const auto& number : counter )
-      if ( number >= 3 ) return true;
-
+      if ( ++counter[ hand[ card ].getFace() ] == 3 )
+         return true;
    return false;
 }
 
 bool DeckOfCards::four() const {
-
    array< short, FSIZE > counter{};
-
    for ( size_t card{}; card < HSIZE; ++card )
-      counter[ hand[ card ].getFace() ]++;
-
-   for ( const auto& number : counter )
-      if ( number == SSIZE ) return true;
-
+      if ( ++counter[ hand[ card ].getFace() ] == 4 )
+         return true;
    return false;
 }
 
@@ -121,17 +103,11 @@ bool DeckOfCards::flush() const {
 }
 
 bool DeckOfCards::straight() const {
-
    array< bool, FSIZE > f{};
-
    for ( size_t card{}; card < HSIZE; ++card )
       f[ hand[ card ].getFace() ] = true;
-
    for ( size_t i{}; i <= FSIZE - HSIZE; ++i )
       if ( f[ i ] && f[ i + 1 ] && f[ i + 2 ] && f[ i + 3 ] && f[ i + 4 ] )
          return true;
-
-   if ( f[ 0 ] && f[ 1 ] && f[ 2 ] && f[ 3 ] && f[ 12 ] ) return true;
-
-   return false;
+   return f[ 0 ] && f[ 1 ] && f[ 2 ] && f[ 3 ] && f[ 12 ];
 }
