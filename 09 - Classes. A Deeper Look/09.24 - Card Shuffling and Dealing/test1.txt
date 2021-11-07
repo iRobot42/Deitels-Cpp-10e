@@ -1,0 +1,7 @@
+Seven of Diamonds
+Seven of Clubs
+Seven of Hearts
+Ace of Hearts
+Seven of Spades
+
+The hand contains high card, a pair, two pairs, three of a kind, four of a kind

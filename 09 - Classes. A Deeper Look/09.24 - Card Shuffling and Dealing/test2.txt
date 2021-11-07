@@ -1,0 +1,7 @@
+Four of Diamonds
+Deuce of Diamonds
+Five of Diamonds
+Ace of Diamonds
+Three of Diamonds
+
+The hand contains high card, flush, straight
