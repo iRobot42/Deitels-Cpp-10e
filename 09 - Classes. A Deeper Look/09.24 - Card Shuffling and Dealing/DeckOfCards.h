@@ -17,22 +17,12 @@ public:
 
    void shuffle();
    Card dealCard();
-   void dealHand();
    bool moreCards() const;
-   void showHand() const;
 
 private:
 
    std::array< Card, DSIZE > deck;
-   std::array< Card, HSIZE > hand;
    int currentCard;
-
-   bool pair() const;
-   bool pairs() const;
-   bool three() const;
-   bool four() const;
-   bool flush() const;
-   bool straight() const;
 };
 
 #endif
