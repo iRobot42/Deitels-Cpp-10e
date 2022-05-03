@@ -1,0 +1,57 @@
+Size of array integers1 is 15
+Array after initialization:
+   0    0    0    0    0
+   0    0    0    0    0
+   0    0    0    0    0
+
+Size of array integers2 is 1
+Array after initialization:
+   0
+
+Enter 16 integers:
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+
+After input, the arrays contain:
+integers1:
+   1    2    3    4    5
+   6    7    8    9   10
+  11   12   13   14   15
+integers2:
+  16
+
+Evaluating: integers1 != integers2
+integers1 and integers2 are not equal
+
+Size of array integers3 is 15
+Array after initialization:
+   1    2    3    4    5
+   6    7    8    9   10
+  11   12   13   14   15
+
+Assigning integers2 to integers1:
+integers1:
+  16
+integers2:
+  16
+
+Evaluating: integers1 == integers2
+integers1 and integers2 are equal
+
+integers3[ 5 ] is 6
+
+Assigning 1000 to integers3[ 5 ]
+integers3:
+   1    2    3    4    5
+1000    7    8    9   10
+  11   12   13   14   15
+
+Attempt to assign 1000 to integers3[ 15 ]
+An exception occured: Subscript out of range
+
+integers3( 1, 3 ) is 9
+
+Assigning 42 to integers3( 2, 4 )
+integers3:
+   1    2    3    4    5
+1000    7    8    9   10
+  11   12   13   14   42
