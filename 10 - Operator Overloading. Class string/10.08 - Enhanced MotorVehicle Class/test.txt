@@ -1,0 +1,25 @@
+CAR DETAILS
+Make:                Mercedes-Benz
+Fuel type:           Hybrid
+Year of manufacture: 2015
+Color:               Jade Green
+Engine capacity:     1600
+
+CAR DETAILS
+Make:                Ferrari
+Fuel type:           Gasoline
+Year of manufacture: 2000
+Color:               Rosso Monza
+Engine capacity:     3600
+
+Motor vehicles car1 and car2 are not identical
+Motor vehicle car2 was manufactured before car1
+
+CAR DETAILS
+Make:                Mercedes-Benz
+Fuel type:           Hybrid
+Year of manufacture: 2015
+Color:               Jade Green
+Engine capacity:     1600
+
+Motor vehicles car1 and car3 are identical
