@@ -13,7 +13,7 @@ class DoubleSubscriptedArray {
 
 public:
 
-   DoubleSubscriptedArray( const int = 1, const int = 1 );
+   explicit DoubleSubscriptedArray( const int = 1, const int = 1 );
    DoubleSubscriptedArray( const DoubleSubscriptedArray& );
    ~DoubleSubscriptedArray();
 
