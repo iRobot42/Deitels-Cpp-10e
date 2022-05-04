@@ -36,11 +36,9 @@ MotorVehicle::MotorVehicle( const MotorVehicle& mv ) {
 }
 
 bool MotorVehicle::operator==( const MotorVehicle& mv ) const {
-   if ( make != mv.make || fuelType != mv.fuelType || color != mv.color ||
-        yearOfManufacture != mv.yearOfManufacture ||
-        engineCapacity != mv.engineCapacity )
-      return false;
-   return true;
+   return make == mv.make && fuelType == mv.fuelType && color == mv.color &&
+      yearOfManufacture == mv.yearOfManufacture &&
+      engineCapacity == mv.engineCapacity;
 }
 
 bool MotorVehicle::operator!=( const MotorVehicle& mv ) const {
