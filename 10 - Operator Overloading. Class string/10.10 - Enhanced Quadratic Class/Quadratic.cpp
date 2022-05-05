@@ -27,8 +27,7 @@ Quadratic Quadratic::operator-( const Quadratic& Q ) const {
 }
 
 void Quadratic::setA( double number ) {
-   if ( number ) a = number;
-   else a = 1.0;
+   a = number ? number : 1.0;
 }
 
 void Quadratic::setB( double number ) { b = number; }
