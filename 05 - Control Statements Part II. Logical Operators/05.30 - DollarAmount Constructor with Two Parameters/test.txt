@@ -1,0 +1,24 @@
+After adding d2 (15.76) into d1 (123.45), d1 = 139.21
+After subtracting d2 (15.76) from d1 (139.21), d1 = 123.45
+After subtracting d1 (123.45) from d2 (15.76), d2 = -107.69
+
+Enter integer interest rate and divisor. For example:
+for     2%, enter:    2 100
+for   2.3%, enter:   23 1000
+for  2.37%, enter:  237 10000
+for 2.375%, enter: 2375 100000
+> 5 100
+
+Initial balance: 1000.00
+
+Year   Amount on deposit
+   1             1050.00
+   2             1102.50
+   3             1157.63
+   4             1215.51
+   5             1276.29
+   6             1340.10
+   7             1407.11
+   8             1477.47
+   9             1551.34
+  10             1628.91
