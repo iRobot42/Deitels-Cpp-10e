@@ -1,0 +1,18 @@
+Employee information obtained by get functions:
+
+First names is Bob
+Last name is Lewis
+Social security number is 333-33-3333
+Gross sales is 5000.00
+Commission rate is 0.04
+Base salary is 300.00
+
+Updated employee information from function toString:
+
+base-salaried commission employee: Bob Lewis
+social security number: 333-33-3333
+gross sales: 5000.00
+commission rate: 0.04
+base salary: 1000.00
+
+Employee's earnings: $1200.00
