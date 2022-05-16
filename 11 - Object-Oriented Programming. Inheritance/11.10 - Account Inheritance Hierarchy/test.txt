@@ -1,0 +1,13 @@
+Account: $1000.00
+SavingsAccount: $100.00
+CheckingAccount: $10.00
+
+Adding $100 to Account: $1100.00
+Adding interest to SavingsAccount: $103.00
+Adding $5 to CheckingAccount: $14.50
+
+Withdrawing $10 from all accounts...
+
+Account: $1090.00
+SavingsAccount: $93.00
+CheckingAccount: $4.00
