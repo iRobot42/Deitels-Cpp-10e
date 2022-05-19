@@ -1,0 +1,19 @@
+salaried employee: John Smith
+social security number: 111-11-1111
+weekly salary: 800.00
+earned $900.00
+
+commission employee: Sue Jones
+social security number: 333-33-3333
+gross sales: 10000.00; commission rate: 0.06
+earned $600.00
+
+base-salaried commission employee: Bob Lewis
+social security number: 444-44-4444
+gross sales: 5000.00; commission rate: 0.04; base salary: 300.00
+new base salary with 10% increase is: $330.00
+earned $530.00
+
+deleting object of class SalariedEmployee
+deleting object of class CommissionEmployee
+deleting object of class BasePlusCommissionEmployee
