@@ -1,0 +1,10 @@
+Balance is $100.00 (class SavingsAccount)
+Withdraw amount: $10
+Deposit amount: $10
+Adding the interest to the balance...
+Updated balance is $103.00
+
+Balance is $10.00 (class CheckingAccount)
+Withdraw amount: $5
+Deposit amount: $5
+Updated balance is $9.00
