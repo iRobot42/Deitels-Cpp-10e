@@ -1,0 +1,15 @@
+class TwoDayPackage:
+FROM: Robot I.
+100-0042 Science Rd., Cogwheel, 0X, 10101
+TO: Bender R.
+57th St., New New York, NY, 98765
+Shipping cost: $100.10
+
+class OvernightPackage:
+FROM: Bender R.
+57th St., New New York, NY, 98765
+TO: Robot I.
+100-0042 Science Rd., Cogwheel, 0X, 10101
+Shipping cost: $22.00
+
+Total shipping cost is $122.10
