@@ -1,0 +1,2 @@
+String: Hello, world!
+             Hello, world!
