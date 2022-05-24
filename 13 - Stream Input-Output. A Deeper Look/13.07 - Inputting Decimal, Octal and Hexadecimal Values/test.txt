@@ -1,0 +1,14 @@
+Decimal format: 10
+Dec 10
+Oct 012
+Hex 0xa
+
+Octal format: 010
+Dec 8
+Oct 010
+Hex 0x8
+
+Hexadecimal format: 0x10
+Dec 16
+Oct 020
+Hex 0x10
