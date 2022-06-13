@@ -1,0 +1,4 @@
+Enter phone number in the form (555) 555-5555:
+(800) 555-1212
+The phone number entered was:
+(800) 555-1212
