@@ -1,0 +1,7 @@
+Numbers + EOF: 42 -1.1 3.14159 -69.001 0 2022.07 -38 397.0 ^Z
+
+Mean is 294.51
+Median is -34.50
+Standard deviation is 667.13
+Minimum is -69.00
+Maximum is 2022.07
