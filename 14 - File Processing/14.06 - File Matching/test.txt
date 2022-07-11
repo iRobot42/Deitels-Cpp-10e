@@ -1,1 +1,6 @@
-File could not be opened
+ 100: Alan Jones, 375.31 USD
+ 300: Mary Smith, 89.30 USD
+ 400: Unmatched transaction record!
+ 500: Sam Sharp, 0.00 USD
+ 700: Suzy Green, -14.22 USD
+ 900: Unmatched transaction record!
