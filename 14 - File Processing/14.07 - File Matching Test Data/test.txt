@@ -1,0 +1,15 @@
+Enter account number, full name and balance (EOF to end)
+: 100 "Alan Jones" 348.17
+: 300 "Mary Smith" 27.19
+: 500 "Sam Sharp" 0.00
+: 700 "Suzy Green" -14.22
+: ^Z
+
+Enter account number and transaction amount (EOF to end)
+: 100 27.14
+: 300 62.11
+: 400 100.56
+: 900 82.17
+: ^Z
+
+Saved!
