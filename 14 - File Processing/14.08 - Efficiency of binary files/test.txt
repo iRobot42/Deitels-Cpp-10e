@@ -1,0 +1,2 @@
+Text: 5015 ms
+Binary: 347 ms
