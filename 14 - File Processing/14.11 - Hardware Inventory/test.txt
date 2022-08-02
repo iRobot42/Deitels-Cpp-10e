@@ -1,0 +1,93 @@
+[1] list, [2] new, [3] update, [4] delete, [5] end: 0
+
+Incorrect choice
+
+[1] list, [2] new, [3] update, [4] delete, [5] end: 1
+
+  #  Tool name               Quantity        Cost
+--------------------------------------------------
+  3  Electric sander                7       57.98
+ 17  Hammer                        76       11.99
+ 24  Jig saw                       21       11.00
+ 39  Lawn mower                     3       79.50
+ 68  Screwdriver                  106        6.99
+ 77  Sledge hammer                 11       21.50
+ 83  Wrench                        34        7.50
+
+[1] list, [2] new, [3] update, [4] delete, [5] end: 2
+
+ID: 3
+Record #3 already exists
+
+[1] list, [2] new, [3] update, [4] delete, [5] end: 2
+
+ID: 56
+Tool: Power saw
+Quantity: 18
+Cost: 99.99
+
+[1] list, [2] new, [3] update, [4] delete, [5] end: 1
+
+  #  Tool name               Quantity        Cost
+--------------------------------------------------
+  3  Electric sander                7       57.98
+ 17  Hammer                        76       11.99
+ 24  Jig saw                       21       11.00
+ 39  Lawn mower                     3       79.50
+ 56  Power saw                     18       99.99
+ 68  Screwdriver                  106        6.99
+ 77  Sledge hammer                 11       21.50
+ 83  Wrench                        34        7.50
+
+[1] list, [2] new, [3] update, [4] delete, [5] end: 3
+
+ID: 42
+Record #42 is empty
+
+[1] list, [2] new, [3] update, [4] delete, [5] end: 3
+
+ID: 17
+New ID: 99
+New tool name: Hammer
+New quantity: 69
+New cost: 12.99
+Record #17 deleted
+Record #99 updated
+
+[1] list, [2] new, [3] update, [4] delete, [5] end: 1
+
+  #  Tool name               Quantity        Cost
+--------------------------------------------------
+  3  Electric sander                7       57.98
+ 24  Jig saw                       21       11.00
+ 39  Lawn mower                     3       79.50
+ 56  Power saw                     18       99.99
+ 68  Screwdriver                  106        6.99
+ 77  Sledge hammer                 11       21.50
+ 83  Wrench                        34        7.50
+ 99  Hammer                        69       12.99
+
+[1] list, [2] new, [3] update, [4] delete, [5] end: 4
+
+ID: 17
+Record #17 is empty
+
+[1] list, [2] new, [3] update, [4] delete, [5] end: 4
+
+ID: 100
+ID: 99
+Record #99 has been deleted
+
+[1] list, [2] new, [3] update, [4] delete, [5] end: 1
+
+  #  Tool name               Quantity        Cost
+--------------------------------------------------
+  3  Electric sander                7       57.98
+ 24  Jig saw                       21       11.00
+ 39  Lawn mower                     3       79.50
+ 56  Power saw                     18       99.99
+ 68  Screwdriver                  106        6.99
+ 77  Sledge hammer                 11       21.50
+ 83  Wrench                        34        7.50
+
+[1] list, [2] new, [3] update, [4] delete, [5] end: 5
