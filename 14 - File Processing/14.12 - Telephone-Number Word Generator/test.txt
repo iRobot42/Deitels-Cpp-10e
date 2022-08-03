@@ -1,0 +1,6 @@
+Phone number: 012-3456
+The number contains 0 or 1
+Phone number: 987-654
+The number must be seven digits
+Phone number: 686-23-77
+Saved: 6862377.txt
