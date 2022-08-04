@@ -6,24 +6,24 @@ Incorrect choice
 
 English                         Belarusian
 --------------------------------------------------------------
-word                            слова
-algorithm                       алгарытм
-code                            код
-programming language            мова праграмавання
-program                         праграма
-to program                      праграмаваць
-floating point number           лiк з плаваючай коскай
-if                              калi
-new                             новы
-sequence                        паслядоўнасць
-null pointer                    нулявы паказальнiк
-etc.                            i гэтак далей
-variable                        пераменная
+word                            СЃР»РѕРІР°
+algorithm                       Р°Р»РіР°СЂС‹С‚Рј
+code                            РєРѕРґ
+programming language            РјРѕРІР° РїСЂР°РіСЂР°РјР°РІР°РЅРЅСЏ
+program                         РїСЂР°РіСЂР°РјР°
+to program                      РїСЂР°РіСЂР°РјР°РІР°С†СЊ
+floating point number           Р»iРє Р· РїР»Р°РІР°СЋС‡Р°Р№ РєРѕСЃРєР°Р№
+if                              РєР°Р»i
+new                             РЅРѕРІС‹
+sequence                        РїР°СЃР»СЏРґРѕСћРЅР°СЃС†СЊ
+null pointer                    РЅСѓР»СЏРІС‹ РїР°РєР°Р·Р°Р»СЊРЅiРє
+etc.                            i РіСЌС‚Р°Рє РґР°Р»РµР№
+variable                        РїРµСЂР°РјРµРЅРЅР°СЏ
 
 [1] view, [2] add, [3] search, [4] quit: 2
 
 English: robot
-Belarusian: робат
+Belarusian: СЂРѕР±Р°С‚
 New entry added
 
 [1] view, [2] add, [3] search, [4] quit: 3
@@ -34,25 +34,25 @@ Entry not found
 [1] view, [2] add, [3] search, [4] quit: 3
 
 Find entry: null pointer
-In Belarusian: нулявы паказальнiк
+In Belarusian: РЅСѓР»СЏРІС‹ РїР°РєР°Р·Р°Р»СЊРЅiРє
 
 [1] view, [2] add, [3] search, [4] quit: 1
 
 English                         Belarusian
 --------------------------------------------------------------
-word                            слова
-algorithm                       алгарытм
-code                            код
-programming language            мова праграмавання
-program                         праграма
-to program                      праграмаваць
-floating point number           лiк з плаваючай коскай
-if                              калi
-new                             новы
-sequence                        паслядоўнасць
-null pointer                    нулявы паказальнiк
-etc.                            i гэтак далей
-variable                        пераменная
-robot                           робат
+word                            СЃР»РѕРІР°
+algorithm                       Р°Р»РіР°СЂС‹С‚Рј
+code                            РєРѕРґ
+programming language            РјРѕРІР° РїСЂР°РіСЂР°РјР°РІР°РЅРЅСЏ
+program                         РїСЂР°РіСЂР°РјР°
+to program                      РїСЂР°РіСЂР°РјР°РІР°С†СЊ
+floating point number           Р»iРє Р· РїР»Р°РІР°СЋС‡Р°Р№ РєРѕСЃРєР°Р№
+if                              РєР°Р»i
+new                             РЅРѕРІС‹
+sequence                        РїР°СЃР»СЏРґРѕСћРЅР°СЃС†СЊ
+null pointer                    РЅСѓР»СЏРІС‹ РїР°РєР°Р·Р°Р»СЊРЅiРє
+etc.                            i РіСЌС‚Р°Рє РґР°Р»РµР№
+variable                        РїРµСЂР°РјРµРЅРЅР°СЏ
+robot                           СЂРѕР±Р°С‚
 
 [1] view, [2] add, [3] search, [4] quit: 4
