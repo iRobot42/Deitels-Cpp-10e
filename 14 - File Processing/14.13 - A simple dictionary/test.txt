@@ -1,0 +1,58 @@
+[1] view, [2] add, [3] search, [4] quit: 0
+
+Incorrect choice
+
+[1] view, [2] add, [3] search, [4] quit: 1
+
+English                         Belarusian
+--------------------------------------------------------------
+word                            слова
+algorithm                       алгарытм
+code                            код
+programming language            мова праграмавання
+program                         праграма
+to program                      праграмаваць
+floating point number           лiк з плаваючай коскай
+if                              калi
+new                             новы
+sequence                        паслядоўнасць
+null pointer                    нулявы паказальнiк
+etc.                            i гэтак далей
+variable                        пераменная
+
+[1] view, [2] add, [3] search, [4] quit: 2
+
+English: robot
+Belarusian: робат
+New entry added
+
+[1] view, [2] add, [3] search, [4] quit: 3
+
+Find entry: nullptr
+Entry not found
+
+[1] view, [2] add, [3] search, [4] quit: 3
+
+Find entry: null pointer
+In Belarusian: нулявы паказальнiк
+
+[1] view, [2] add, [3] search, [4] quit: 1
+
+English                         Belarusian
+--------------------------------------------------------------
+word                            слова
+algorithm                       алгарытм
+code                            код
+programming language            мова праграмавання
+program                         праграма
+to program                      праграмаваць
+floating point number           лiк з плаваючай коскай
+if                              калi
+new                             новы
+sequence                        паслядоўнасць
+null pointer                    нулявы паказальнiк
+etc.                            i гэтак далей
+variable                        пераменная
+robot                           робат
+
+[1] view, [2] add, [3] search, [4] quit: 4
