@@ -7,10 +7,9 @@
 
 class Entry {
 
-   char english[ 30 ];
-   char translation[ 30 ];
-
 public:
+
+   static const short SIZE{ 30 };
 
    explicit Entry( const std::string& EN = "", const std::string& TR = "" ) {
       set( english, EN );
@@ -18,13 +17,18 @@ public:
    }
 
    void set( char* word, const std::string& S ) {
-      size_t length{ S.size() < 30 ? S.size() : 29 };
+      size_t length{ S.size() < SIZE ? S.size() : SIZE-1 };
       S.copy( word, length );
       word[ length ] = '\0';
    }
 
    std::string getEnglish() const { return english; }
    std::string getTranslation() const { return translation; }
+
+private:
+
+   char english[ SIZE ];
+   char translation[ SIZE ];
 };
 
 #endif
