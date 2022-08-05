@@ -40,8 +40,8 @@ int main() {
 
          cout << left << setw( 32 ) << "English"
                       << setw( 30 ) << LANGUAGE << endl;
-         for ( int i{}; i < 62; ++i ) cout << '-'; cout << endl;
-         file.seekg( 0 );
+         cout << string( 62, '-' ) << endl;
+         file.seekg( ios::beg );
          while ( file.read( reinterpret_cast< char* >( &entry ),
                             sizeof( Entry ) ) )
             cout << left << setw( 30 ) << entry.getEnglish() << "  "
@@ -63,7 +63,7 @@ int main() {
 
          cout << "Find entry: ";
          getline( cin >> ws, english );
-         file.seekg( 0 );
+         file.seekg( ios::beg );
          while ( file.read( reinterpret_cast< char* >( &entry ),
                             sizeof( Entry ) ) )
             if ( entry.getEnglish() == english ) {
@@ -84,7 +84,7 @@ int main() {
    }
 
    file.close();
-   return 0;
+   return EXIT_SUCCESS;
 }
 
 void createDictionary( const string& LANG ) {
