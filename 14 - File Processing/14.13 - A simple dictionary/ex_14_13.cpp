@@ -12,15 +12,14 @@ using namespace std;
 
 enum class Menu { VIEW = 1, ADD, SEARCH, QUIT };
 
-void createDictionary( const string& );
 Menu select();
+inline void output( const string&, const string& );
 
 int main() {
 
-   const string LANGUAGE( "Belarusian" );
-   //createDictionary( LANGUAGE );
+   const string LANGUAGE{ "Belarusian" };
 
-   fstream file( LANGUAGE + ".dat", ios::binary | ios::in | ios::app );
+   fstream file{ LANGUAGE + ".dat", ios::binary | ios::in | ios::app };
    if ( !file ) {
       cerr << "File could not be opened" << endl;
       exit( EXIT_FAILURE );
@@ -38,14 +37,12 @@ int main() {
 
       case Menu::VIEW:
 
-         cout << left << setw( 32 ) << "English"
-                      << setw( 30 ) << LANGUAGE << endl;
-         cout << string( 62, '-' ) << endl;
+         output( "English", LANGUAGE );
+         cout << string( Entry::SIZE * 2 + 2, '-' ) << endl;
          file.seekg( ios::beg );
          while ( file.read( reinterpret_cast< char* >( &entry ),
                             sizeof( Entry ) ) )
-            cout << left << setw( 30 ) << entry.getEnglish() << "  "
-                         << setw( 30 ) << entry.getTranslation() << endl;
+            output( entry.getEnglish(), entry.getTranslation() );
          break;
 
       case Menu::ADD:
@@ -87,18 +84,14 @@ int main() {
    return EXIT_SUCCESS;
 }
 
-void createDictionary( const string& LANG ) {
-   ofstream file( LANG + ".dat", ios::binary | ios::out );
-   if ( !file ) {
-      cerr << "File could not be created" << endl;
-      exit( EXIT_FAILURE );
-   }
-   file.close();
-}
-
 Menu select() {
    cout << "[1] view, [2] add, [3] search, [4] quit: ";
    int choice;
    cin >> choice;
    return static_cast< Menu >( choice );
+}
+
+void output( const string& S1, const string& S2 ) {
+   cout << left << setw( Entry::SIZE ) << S1 << "  "
+                << setw( Entry::SIZE ) << S2 << endl;
 }
