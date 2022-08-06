@@ -16,12 +16,6 @@ public:
       set( translation, TR );
    }
 
-   void set( char* word, const std::string& S ) {
-      size_t length{ S.size() < SIZE ? S.size() : SIZE-1 };
-      S.copy( word, length );
-      word[ length ] = '\0';
-   }
-
    std::string getEnglish() const { return english; }
    std::string getTranslation() const { return translation; }
 
@@ -29,6 +23,12 @@ private:
 
    char english[ SIZE ];
    char translation[ SIZE ];
+
+   void set( char* word, const std::string& S ) {
+      size_t length{ S.size() < SIZE ? S.size() : SIZE-1 };
+      S.copy( word, length );
+      word[ length ] = '\0';
+   }
 };
 
 #endif
