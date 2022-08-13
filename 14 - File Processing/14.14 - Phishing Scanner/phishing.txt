@@ -1,0 +1,30 @@
+4 42
+2 account
+1 action
+1 amazon
+3 attempt
+2 check
+3 credit card
+1 delivery
+2 document
+2 expire
+2 facebook
+3 file
+1 insurance
+1 invoice
+3 ip
+1 login
+2 message
+3 money
+2 new
+2 notification
+3 order
+3 password
+1 request
+3 required
+2 social security
+1 status
+2 survey
+1 verification
+3 .pdf
+2 @

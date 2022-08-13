@@ -1,0 +1,14 @@
+Scan result:
+
+1x 42                 4
+2x credit card        6
+1x facebook           2
+2x file               6
+4x ip                12
+2x login              2
+1x new                2
+2x notification       4
+1x .pdf               3
+14x @                28
+
+TOTAL                69
