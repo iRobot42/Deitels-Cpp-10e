@@ -1,0 +1,3 @@
+Number: 54
+It is not prime
+Prime factor(s): 2 3
