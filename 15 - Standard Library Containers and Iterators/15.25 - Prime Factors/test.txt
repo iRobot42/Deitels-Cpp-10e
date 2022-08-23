@@ -1,0 +1,3 @@
+Number: 54
+It is not prime
+The unique prime factorization is: 2 3 3 3
