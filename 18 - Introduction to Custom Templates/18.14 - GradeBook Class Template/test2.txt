@@ -1,0 +1,23 @@
+Welcome to the grade book for
+CS101 Introduction to C++ Programming!
+
+The grades are:
+            Test 1  Test 2  Test 3  Test 4  Test 5  Test 6  Test 7  Average
+Student  1      91      73      86      89      87      62      91    82.71
+Student  2      89      59      91      82      48     100      76    77.86
+
+Lowest grade in the grade book is 48
+Highest grade in the grade book is 100
+
+Overall grade distribution:
+  0-9:
+10-19:
+20-29:
+30-39:
+40-49: *
+50-59: *
+60-69: *
+70-79: **
+80-89: *****
+90-99: ***
+  100: *
