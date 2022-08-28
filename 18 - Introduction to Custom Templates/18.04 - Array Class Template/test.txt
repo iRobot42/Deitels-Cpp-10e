@@ -1,0 +1,22 @@
+Enter 3 integer numbers: 42 -1 1024
+
+Initial integer Array a( 3 ): 42 -1 1024
+Default integer Array b( 10 ): 0 0 0 0 0 0 0 0 0 0
+
+Modified Array b( 3 ): 42 -1 1024
+Copy of b, constant integer Array C( 3 ): 42 -1 1024
+First element in C is 42
+
+Array C is equal to Array a
+After changes in b, C is not equal to b
+
+bool    d( 4 ): false true true false
+float   e( 2 ): 3.14 2.718
+char    f( 8 ): # 1
+string  g( 1 ): iR080T
+
+EXCEPTIONS:
+Invalid size: array size must be greater than 0
+Invalid index: subscript out of range
+
+~~~~~~~
