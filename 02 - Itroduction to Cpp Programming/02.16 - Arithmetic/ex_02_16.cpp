@@ -1,7 +1,7 @@
 // Exercise 2.16: ex_02_16.cpp
+// Arithmetic
 
 #include <iostream>
-
 using namespace std;
 
 int main() {
