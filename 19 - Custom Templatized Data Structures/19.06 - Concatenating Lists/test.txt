@@ -1,0 +1,5 @@
+Lists #1 and #2 were declared: empty
+List #1, after initialization: 6 9 1 7
+List #2, after initialization: m m r z
+List #3, concatenated: 6 9 1 7 m m r z
+List #1 was not concatenated: 6 9 1 7
