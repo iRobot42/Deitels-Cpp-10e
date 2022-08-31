@@ -1,0 +1,3 @@
+List #1 initialized: D Z K X G F T
+List #1 after split: D Z K X
+List #2 after split: G F T
