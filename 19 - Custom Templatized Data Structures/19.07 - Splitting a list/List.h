@@ -16,7 +16,7 @@ struct List {
    Node* tail{}; // but enough
 
    void add( const char C ) {
-      Node* temp = new Node;
+      Node* temp{ new Node };
       temp->data = C;
       if ( head ) {
          tail->next = temp;
