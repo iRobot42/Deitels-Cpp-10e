@@ -1,4 +1,4 @@
-// Exercise 19.6: List.h
+// Exercise 19.7: List.h
 
 #ifndef LIST_H
 #define LIST_H
