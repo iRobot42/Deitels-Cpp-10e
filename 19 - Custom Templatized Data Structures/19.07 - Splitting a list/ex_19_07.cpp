@@ -7,7 +7,7 @@ using namespace std;
 List split( List& l1, int pos ) {
    Node* temp{ l1.head };
    while ( --pos && temp->next ) temp = temp->next;
-   List* l2 = new List{ temp->next };
+   List* l2{ new List{ temp->next } };
    temp->next = nullptr;
    l1.tail = temp;
    return *l2;
