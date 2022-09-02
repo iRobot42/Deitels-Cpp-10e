@@ -3,6 +3,8 @@
 #ifndef STACK_H
 #define STACK_H
 
+#include "ForwardList.h"
+
 template< typename Type >
 struct Stack : private ForwardList< Type > {
 
