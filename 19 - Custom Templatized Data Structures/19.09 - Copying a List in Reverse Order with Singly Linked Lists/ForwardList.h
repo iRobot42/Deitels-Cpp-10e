@@ -1,7 +1,7 @@
 // Exercise 19.9: ForwardList.h
 
-#ifndef LIST_H
-#define LIST_H
+#ifndef FORWARDLIST_H
+#define FORWARDLIST_H
 
 #include <iostream>
 
