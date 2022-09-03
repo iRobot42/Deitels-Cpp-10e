@@ -1,0 +1,2 @@
+Infix arithmetic expression: (6+2)*5-8/4
+Converted to postfix notation: 62+5*84/-
