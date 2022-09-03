@@ -3,6 +3,7 @@
 
 #include <iostream>
 #include <string>
+#include <cmath>
 #include "Stack.h"
 
 int evaluatePostfixExpression( const std::string& );
