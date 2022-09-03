@@ -1,0 +1,2 @@
+Postfix expression: 6 2 + 5 * 8 4 / -
+Calculated value: 38
