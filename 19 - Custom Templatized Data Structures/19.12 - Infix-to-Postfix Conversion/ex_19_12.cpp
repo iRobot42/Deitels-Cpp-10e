@@ -12,12 +12,9 @@ bool precedence( const char, const char );
 int main() {
 
    std::string infix;
-
    std::cout << "Infix arithmetic expression: ";
    std::getline( std::cin, infix ); // assuming correct input
-
-   const std::string POSTFIX{ convertToPostfix( infix ) };
-   std::cout << "Converted to postfix notation: " << POSTFIX;
+   std::cout << "Converted to postfix notation: " << convertToPostfix( infix );
 
    return EXIT_SUCCESS;
 }
