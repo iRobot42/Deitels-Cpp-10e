@@ -1,0 +1,2 @@
+Longest line: 3 customer(s)
+Longest wait: 7 minute(s)
