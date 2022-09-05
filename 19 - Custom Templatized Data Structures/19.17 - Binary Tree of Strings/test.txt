@@ -1,0 +1,5 @@
+String: green orange white blue red black purple
+
+Preorder   green blue black orange white red purple
+Inorder    black blue green orange purple red white
+Postorder  black blue purple red white orange green
