@@ -17,8 +17,7 @@ int main() {
 
    Queue< Customer > line;
    int arrival{ reset() }, service{reset()};
-   int max_line{};
-   int max_wait{};
+   int max_line{}, max_wait{};
 
    for ( int minute{}; minute < 720; ++minute ) {
 
