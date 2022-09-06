@@ -1,0 +1,4 @@
+5-char word: robot
+
+Duplicate: o
+Level-order traversal: r o t b
