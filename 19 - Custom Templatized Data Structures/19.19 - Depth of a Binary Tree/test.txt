@@ -1,0 +1,5 @@
+5 char values: a a b b c
+
+Duplicate: a
+Duplicate: b
+The tree has 3 level(s)
