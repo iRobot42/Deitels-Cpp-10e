@@ -16,7 +16,7 @@ int main() {
 
    int* found{ list.searchList( value ) };
    if ( !found ) std::cout << "Value not found";
-   else std::cout << "Value found at 0x" << found << " (" << *found << ')';
+   else std::cout << "Value found at " << found << " (" << *found << ')';
 
    return EXIT_SUCCESS;
 }
