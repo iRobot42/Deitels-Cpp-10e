@@ -1,0 +1,4 @@
+List initialized  1 2 3
+After pop_front   2 3
+First pop_back    2
+Second pop_back   empty
