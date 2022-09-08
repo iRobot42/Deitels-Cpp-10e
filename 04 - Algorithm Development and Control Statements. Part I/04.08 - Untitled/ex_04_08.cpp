@@ -1,7 +1,6 @@
-// Exercise 4.08: ex_04_08.cpp
+// Exercise 4.8: ex_04_08.cpp
 
 #include <iostream>
-
 using namespace std;
 
 int main() {
