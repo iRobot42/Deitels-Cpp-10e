@@ -1,4 +1,5 @@
 // Exercise 6.12: ex_06_12.cpp
+// Parking Charges
 
 #include <cmath>
 #include <iomanip>
