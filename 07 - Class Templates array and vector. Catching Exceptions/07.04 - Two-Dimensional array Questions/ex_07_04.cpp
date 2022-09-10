@@ -2,7 +2,6 @@
 
 #include <array>
 #include <iostream>
-
 using namespace std;
 
 int main() {
@@ -17,7 +16,7 @@ int main() {
          table[ row ][ col ] = row * col;
 
    table = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16 };
-   
+
    // d
    cout << "\t[0]\t[1]\t[2]\t[3]\n" << endl;
    for ( size_t row{ 0 }; row < arraySize; ++row ) {
