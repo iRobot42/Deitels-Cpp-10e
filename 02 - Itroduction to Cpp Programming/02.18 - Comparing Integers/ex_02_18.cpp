@@ -1,7 +1,7 @@
 // Exercise 2.18: ex_02_18.cpp
+// Comparing Integers
 
 #include <iostream>
-
 using namespace std;
 
 int main() {
