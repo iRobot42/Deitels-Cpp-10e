@@ -1,7 +1,7 @@
 // Exercise 2.19: ex_02_19.cpp
+// Arithmetic, Smallest and Largest
 
 #include <iostream>
-
 using namespace std;
 
 int main() {
