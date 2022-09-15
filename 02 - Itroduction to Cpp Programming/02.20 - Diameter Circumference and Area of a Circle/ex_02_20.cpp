@@ -1,7 +1,7 @@
 // Exercise 2.20: ex_02_20.cpp
+// Diameter, Circumference and Area of a Circle
 
 #include <iostream>
-
 using namespace std;
 
 int main() {
