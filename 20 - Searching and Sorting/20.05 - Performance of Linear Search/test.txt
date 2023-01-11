@@ -1,0 +1,4 @@
+Vector size: 10000000
+Search index: 9999999
+Element 9999999: 119
+Search time: 42 ms
