@@ -1,4 +1,5 @@
 // Exercise 8.10: ex_08_10.cpp
+// Function Headers and Prototypes
 
 void zero( long int[], const size_t ); // b
 int add1AndSum( int[], const size_t ); // d
