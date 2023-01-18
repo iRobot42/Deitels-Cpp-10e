@@ -1,0 +1,3 @@
+Sentence: No pressure, no diamonds!
+Character: n
+Found 3 time(s)
