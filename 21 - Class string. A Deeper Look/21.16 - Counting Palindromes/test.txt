@@ -1,0 +1,3 @@
+Sentence: tree noon, [...] 101 42 #robot -RaceCar!UwU
+Words: tree noon robot RaceCar UwU
+Palindromes: 3
