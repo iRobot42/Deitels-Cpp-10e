@@ -1,0 +1,7 @@
+Sentence: Area of a square
+Vowels: 8
+a: 4
+e: 2
+i: 0
+o: 1
+u: 1
