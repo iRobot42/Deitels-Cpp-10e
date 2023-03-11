@@ -1,0 +1,14 @@
+              a
+             bcb
+            cdedc
+           defgfed
+          efghihgfe
+         fghijkjihgf
+        ghijklmlkjihg
+       hijklmnonmlkjih
+      ijklmnopqponmlkji
+     jklmnopqrsrqponmlkj
+    klmnopqrstutsrqponmlk
+   lmnopqrstuvwvutsrqponml
+  mnopqrstuvwxyxwvutsrqponm
+ nopqrstuvwxyz{zyxwvutsrqpon
