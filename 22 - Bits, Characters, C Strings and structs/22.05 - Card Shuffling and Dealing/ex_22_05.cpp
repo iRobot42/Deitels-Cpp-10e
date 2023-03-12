@@ -9,5 +9,5 @@ int main() {
    deckOfCards.shuffle();
    deckOfCards.deal();
 
-   return 0;
+   return EXIT_SUCCESS;
 }
