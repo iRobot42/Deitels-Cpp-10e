@@ -1,0 +1,3 @@
+Line of text: Array of 100 CHARacters.
+Uppercase: 5 %
+Lowercase: 12 %
