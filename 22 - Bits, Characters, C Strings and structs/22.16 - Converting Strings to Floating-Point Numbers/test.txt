@@ -1,0 +1,2 @@
+Command-line arguments: 3.14159 0 -1.00 2.718
+Total: 4.85959
