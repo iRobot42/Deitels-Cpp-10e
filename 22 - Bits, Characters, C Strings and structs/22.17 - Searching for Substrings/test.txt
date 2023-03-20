@@ -1,0 +1,4 @@
+String: Test string
+Substring: st
+First remainder: st string
+Second remainder: string
