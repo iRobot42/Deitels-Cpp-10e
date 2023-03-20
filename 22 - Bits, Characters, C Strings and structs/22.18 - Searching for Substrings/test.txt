@@ -1,0 +1,3 @@
+String: Do what you can, with what you have, where you are.
+Substring: you
+Occurences: 3
