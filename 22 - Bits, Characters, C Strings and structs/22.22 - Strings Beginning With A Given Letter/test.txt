@@ -1,0 +1,12 @@
+Enter 5 strings...
+
+1: blue sky
+2: BLACK SWAN
+3: yellow submarine
+4: brown chocolate
+5: red signal
+
+Letter: 8
+Letter: B
+
+Strings beginning with 'B': 1 2 4
