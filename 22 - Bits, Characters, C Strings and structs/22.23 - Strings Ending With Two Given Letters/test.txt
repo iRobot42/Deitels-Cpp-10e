@@ -1,0 +1,13 @@
+Enter 6 strings...
+
+1: battery
+2: shock absorber
+3: odometer
+4: air filter
+5: steering wheel
+6: muffler
+
+Two-letter combination: 42
+Two-letter combination: er
+
+Strings ending with "er": 2 3 4 6
