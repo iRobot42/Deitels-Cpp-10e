@@ -1,0 +1,60 @@
+is_digit( '0' ) == 1
+is_digit( 'a' ) == 0
+is_digit( '!' ) == 0
+
+is_alpha( '1' ) == 0
+is_alpha( 'g' ) == 1
+is_alpha( 'G' ) == 1
+is_alpha( '~' ) == 0
+
+is_alnum( '9' ) == 1
+is_alnum( 'z' ) == 1
+is_alnum( '&' ) == 0
+
+is_xdigit( '3' ) == 1
+is_xdigit( 'F' ) == 1
+is_xdigit( 'g' ) == 0
+is_xdigit( '#' ) == 0
+
+is_lower( '4' ) == 0
+is_lower( 'q' ) == 1
+is_lower( 'Q' ) == 0
+is_lower( '-' ) == 0
+
+is_upper( '2' ) == 0
+is_upper( 'q' ) == 0
+is_upper( 'Q' ) == 1
+is_upper( '+' ) == 0
+
+to_lower( '6' ): 6
+to_lower( 'm' ): m
+to_lower( 'N' ): n
+to_lower( '@' ): @
+
+to_upper( '8' ): 8
+to_upper( 'M' ): M
+to_upper( 'n' ): N
+to_upper( '.' ): .
+
+is_space( '_' ) == 0
+is_space( ' ' ) == 1
+is_space( '\t' ) == 1
+is_space( '\a' ) == 0
+
+is_cntrl( ' ' ) == 0
+is_cntrl( 'o' ) == 0
+is_cntrl( '\n' ) == 1
+is_cntrl( '\a' ) == 1
+
+is_punct( ' ' ) == 0
+is_punct( '^' ) == 1
+is_punct( 'v' ) == 0
+is_punct( '<' ) == 1
+
+is_print( ' ' ) == 1
+is_print( 'b' ) == 1
+is_print( '\b' ) == 0
+
+is_graph( ' ' ) == 0
+is_graph( 'r' ) == 1
+is_graph( '\r' ) == 0
