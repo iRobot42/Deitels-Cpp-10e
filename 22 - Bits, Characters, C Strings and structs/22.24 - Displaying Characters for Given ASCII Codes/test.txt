@@ -1,0 +1,4 @@
+ASCII Code (0 to 255): -1
+ASCII Code (0 to 255): 256
+ASCII Code (0 to 255): 42
+Corresponding character: *
