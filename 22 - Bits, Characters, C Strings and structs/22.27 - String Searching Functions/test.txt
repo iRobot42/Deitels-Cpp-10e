@@ -1,0 +1,23 @@
+str_chr( "iRobot", 'o' ) == obot
+str_chr( "3.1416", '1' ) == 1416
+str_chr( "101010", '2' ): nullptr
+
+str_rchr( "iRobot", 'o' ) == ot
+str_rchr( "3.1416", '1' ) == 16
+str_rchr( "101010", '2' ): nullptr
+
+str_spn( "iRobot", "Rbi" ) == 2
+str_spn( "3.1416", ".13" ) == 3
+str_spn( "101010", "bin" ): nullptr
+
+str_pbrk( "iRobot", "t0b" ) == bot
+str_pbrk( "3.1416", "012" ) == 1416
+str_pbrk( "101010", "ABC" ): nullptr
+
+str_cspn( "iRobot", "4t2" ) == 5
+str_cspn( "3.1416", "601" ) == 2
+str_cspn( "101010", "0.1" ) == 0
+
+str_str( "iRobot", "Rob" ) == Robot
+str_str( "3.1416", ".14" ) == .1416
+str_str( "101010", "FFF" ): nullptr
