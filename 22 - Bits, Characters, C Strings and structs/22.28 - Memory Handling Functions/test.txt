@@ -1,0 +1,30 @@
+Initial:
+
+ s : 00000072D52FF684 : source
+ d : 00000072D52FF6A8 : destination
+
+mem_cpy( d, s, sizeof( s ) ):
+
+ s : 00000072D52FF684 : source
+ d : 00000072D52FF6A8 : source
+
+mem_move( s, s + 3, 3 ):
+
+ s : 00000072D52FF684 : rcerce
+
+New values:
+
+ s : 00000072D52FF684 : BMW M3
+ d : 00000072D52FF6A8 : BMW M5
+
+mem_cmp( s, d, 5 ) == 0
+mem_cmp( s, d, 6 ) == -1
+mem_cmp( d, s, sizeof( d ) ) == 1
+
+mem_chr( s, 'W', 2 ) : 0000000000000000
+mem_chr( s, 'W', 3 ) : 00000072D52FF686
+mem_chr( s, '3', 6 ) : 00000072D52FF689
+
+mem_set( s + 1, '0', 4 ) : 00000072D52FF685
+
+ s : B00003
