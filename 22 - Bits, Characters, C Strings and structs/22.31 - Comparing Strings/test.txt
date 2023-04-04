@@ -1,0 +1,4 @@
+String 1: on
+String 2: one
+Number: 2
+on = one
