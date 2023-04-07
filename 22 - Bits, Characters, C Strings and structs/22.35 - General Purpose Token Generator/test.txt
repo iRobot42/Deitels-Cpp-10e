@@ -1,0 +1,6 @@
+Square
+box
+round
+pizza
+triangle
+slices
