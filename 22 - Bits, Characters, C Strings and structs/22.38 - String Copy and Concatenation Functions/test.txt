@@ -1,0 +1,9 @@
+Initial:
+
+  str1: Test
+  str2: String
+
+str_cpy( str1, str2 ) == String
+str_ncpy( str1 + 5, str2, 3 ) == Str
+str_cat( str1, str2 ) == StrinStrString
+str_ncat( str1, str2, 2 ) == StrinStrStringSt
