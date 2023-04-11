@@ -1,0 +1,12 @@
+str1: John Doe
+str2: John Smith
+
+str_cmp( str1, str2 ) == -1
+str_cmp( str2, str1 ) == 1
+str_cmp( str1, "John Doe" ) == 0
+str_cmp( "John", str2 ) == -1
+
+str_ncmp( str1, str2, 5 ) == 0
+str_ncmp( str1, str2, 6 ) == -1
+str_ncmp( str2, str1, 6 ) == 1
+str_ncmp( str1, "John Deere", 6 ) == 0
