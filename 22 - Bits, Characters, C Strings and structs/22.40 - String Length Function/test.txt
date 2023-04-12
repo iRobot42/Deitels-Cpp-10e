@@ -1,0 +1,6 @@
+str1: Not empty string
+str2: [empty]
+
+str_len( str1 ) == 16
+str_len( str2 ) == 0
+str_len( "42" ) == 2
