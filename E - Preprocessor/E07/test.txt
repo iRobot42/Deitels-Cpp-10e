@@ -1,0 +1,2 @@
+Three numbers: 42 -1 1024
+Smaller is -1
