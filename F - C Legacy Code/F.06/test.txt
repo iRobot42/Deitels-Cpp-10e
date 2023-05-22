@@ -1,0 +1,4 @@
+Size: 4
+Values: 42 0 -1 1024
+Initialized array: 42 0 -1 1024
+Reallocated array: 42 0
