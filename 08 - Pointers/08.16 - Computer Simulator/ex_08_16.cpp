@@ -1,5 +1,4 @@
 // Exercise 8.16: ex_08_16.cpp
-// Computer Simulator
 
 #include <iomanip>
 #include <iostream>
