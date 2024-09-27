@@ -1,4 +1,5 @@
 // Exercise 2.21: ex_02_21.cpp
+// Displaying Large Letters
 
 #include <iostream>
 
